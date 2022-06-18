@@ -148,10 +148,12 @@ with open('output.txt', 'r') as data:
 
     #plot graph
     values = [neutral, stopWord, positive, negative]
-    fig = px.line(x = country, y = values, title = "Words count")
-    #fig = go.Figure(data=go.Scatter(y=values))
-    fig.show()
-
+    fig = px.line(x = country, y = values, labels={
+                     "x": "Country", "value": "Word Count", "variable":"Types of word", "wide_variable_0":"Neutral"
+                 }
+                  ,title = "Words count")
+    fig.write_html('Line Graph.html', auto_open=True)
+    """    
     # first plot with X and Y data
     plt.plot(country, neutral, label = "Neutral words")
     plt.plot(country, stopWord, label = "Stop words")
@@ -163,7 +165,15 @@ with open('output.txt', 'r') as data:
     #plt.title('multiple plots')
     plt.legend(loc="best")
     plt.show()
-
+    """
+    fig = go.Figure(data=[
+        go.Bar(name='Positive Word Percentage', x=country, y=positiveW),
+        go.Bar(name='Negative Word Percentage', x=country, y=negativeW)
+    ])
+    # Change the bar mode
+    fig.update_layout(barmode='group')
+    fig.write_html('Bar Graph.html', auto_open=True)
+    """
     x_axis = np.arange(len(country))
     width1 = 0.2
     plt.bar(x_axis - width1, positiveW, width=0.4, label='Positive Value')
@@ -172,6 +182,7 @@ with open('output.txt', 'r') as data:
     plt.legend(loc='upper center', bbox_to_anchor=(0.5, -0.05),
                fancybox=True, shadow=True, ncol=5)
     plt.show()
+    """
     print("\n")
     # conclusion
     print("Summary from the Analysis in Percentage (%)")
