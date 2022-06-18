@@ -2,9 +2,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 import plotly.express as px
-import plotly.graph_objs as go
-import plotly.offline
-
+import plotly.graph_objects as go
+from plotly.subplots import make_subplots
 
 class Node:
    def __init__(self):
@@ -104,18 +103,13 @@ class Freq:
         Npercent = negative / (positive + negative) * 100
         NePercent = neutral / (positive + negative + neutral) * 100
 
-        #StWordPercent = (st_count / (positive + negative + neutral + st_count)) * 100
-        #NeutWordPercent = (neutral / (positive + negative + neutral + st_count)) * 100
-        #PosWordPercent = (positive / (positive + negative + neutral + st_count)) * 100
-        #NegWordPercent = (negative / (positive + negative + neutral + st_count)) * 100
-
         print("The total stop word in the file is: " + str(st_count))  # print all stop word in txt files
         print("Total positive word frequency: ", positive, "%.2f" % Ppercent)
         print("Total negative word frequency: ", negative, "%.2f" % Npercent)
         print("Total neutral word frequency: ", neutral)
 
         outputFile = open('output.txt', 'a')
-        outputFile.write(str(neutral) + " " + str(st_count) + " " + str(positive) + " " + str(negative) + " " + str("%.2f" % Ppercent) + " " + str("%.2f" % Npercent) + " " + str("%.2f" % NePercent) + "\n")
+        outputFile.write(country + " " + str(neutral) + " " + str(st_count) + " " + str(positive) + " " + str(negative) + " " + str("%.2f" % Ppercent) + " " + str("%.2f" % Npercent) + " " + str("%.2f" % NePercent) + "\n")
     
 fr=Freq
 filter=["filteredtext.txt","filteredtext1.txt","filteredtext2.txt","filteredtext3.txt","filteredtext4.txt"]
@@ -133,6 +127,7 @@ for i in range (5):
 
 # get data from text file
 with open('output.txt', 'r') as data:
+    country = []
     neutral= []
     stopWord = []
     positive = []
@@ -143,26 +138,25 @@ with open('output.txt', 'r') as data:
 
     for line in data:
         column = line.split(' ')
-        neutral.append(float(column[0]))
-        stopWord.append(float(column[1]))
-        positive.append(float(column[2]))
-        negative.append(float(column[3]))
-        positiveW.append(float(column[4]))
-        negativeW.append(float(column[5]))
-        # neutralW.append(float(column[2]))
-     #plot graph
-    Country = ["Canada", "Indonesia", "Malaysia", "Singapore", "US"]
-    #values = [[neutral], [stopWord], [positive], [negative]]
-    #fig = px.line(y=values)
-    #fig.show()
+        country.append(column[0])
+        neutral.append(float(column[1]))
+        stopWord.append(float(column[2]))
+        positive.append(float(column[3]))
+        negative.append(float(column[4]))
+        positiveW.append(float(column[5]))
+        negativeW.append(float(column[6]))
+
+    #plot graph
+    values = [neutral, stopWord, positive, negative]
+    fig = px.line(x = country, y = values, title = "Words count")
     #fig = go.Figure(data=go.Scatter(y=values))
-    #fig.show()
+    fig.show()
 
     # first plot with X and Y data
-    plt.plot(Country, neutral, label = "Neutral words")
-    plt.plot(Country, stopWord, label = "Stop words")
-    plt.plot(Country, positive, label = "Positive words")
-    plt.plot(Country, negative, label = "Negative words")
+    plt.plot(country, neutral, label = "Neutral words")
+    plt.plot(country, stopWord, label = "Stop words")
+    plt.plot(country, positive, label = "Positive words")
+    plt.plot(country, negative, label = "Negative words")
 
     plt.xlabel("Country")
     plt.ylabel("Words Count")
@@ -170,21 +164,18 @@ with open('output.txt', 'r') as data:
     plt.legend(loc="best")
     plt.show()
 
-    x_axis = np.arange(len(Country))
+    x_axis = np.arange(len(country))
     width1 = 0.2
-    # plt.bar(x_axis, neutralW, width=0.2, label='Neutral Value')
-
     plt.bar(x_axis - width1, positiveW, width=0.4, label='Positive Value')
     plt.bar(x_axis + width1, negativeW, width=0.4, label='Negative Value')
-
-    plt.xticks(x_axis, Country)
+    plt.xticks(x_axis, country)
     plt.legend(loc='upper center', bbox_to_anchor=(0.5, -0.05),
                fancybox=True, shadow=True, ncol=5)
     plt.show()
     print("\n")
     # conclusion
     print("Summary from the Analysis in Percentage (%)")
-    a = {'Country': Country, 'Positive Words': positiveW, 'Negative Words': negativeW}
+    a = {'Country': country, 'Positive Words': positiveW, 'Negative Words': negativeW}
     df = pd.DataFrame(a)
     condition = [df['Positive Words'] > df['Negative Words'], df['Positive Words'] < df['Negative Words']]
     choice = ['Positive Sentiment', 'Negative Sentiment']
@@ -193,4 +184,19 @@ with open('output.txt', 'r') as data:
 
     maxPercent = max(positiveW)
     print("Based on the result, it can be concluded that article about Singapore"
-          "\nhas the highest percentage of positive words which is " + str(maxPercent))
+          "\nhas the highest percentage of positive words which is" + " " + str(maxPercent))
+
+"""
+    inputSize = len(positiveW)
+    gap = inputSize//2
+    while gap>0:
+        for i in range(gap, inputSize):
+            temp = positiveW[i]
+            j=i
+            while j>=gap and positiveW[j-gap]<temp:
+                positiveW[j]=positiveW[j-gap]
+                j-=gap
+            positiveW[j]=temp
+        gap = gap//2
+    print(positiveW)
+"""
