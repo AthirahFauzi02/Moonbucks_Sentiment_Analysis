@@ -145,7 +145,7 @@ with open('output.txt', 'r') as data:
         negative.append(float(column[4]))
         positiveW.append(float(column[5]))
         negativeW.append(float(column[6]))
-
+    """
     #plot graph
     values = [neutral, stopWord, positive, negative]
     fig = px.line(x = country, y = values, labels={
@@ -153,19 +153,19 @@ with open('output.txt', 'r') as data:
                  }
                   ,title = "Words count")
     fig.write_html('Line Graph.html', auto_open=True)
-    """    
-    # first plot with X and Y data
-    plt.plot(country, neutral, label = "Neutral words")
-    plt.plot(country, stopWord, label = "Stop words")
-    plt.plot(country, positive, label = "Positive words")
-    plt.plot(country, negative, label = "Negative words")
-
-    plt.xlabel("Country")
-    plt.ylabel("Words Count")
-    #plt.title('multiple plots')
-    plt.legend(loc="best")
-    plt.show()
     """
+    #graph for word counts
+    fig1 = go.Figure(data=[
+        go.Bar(name='Neutral Words', x=country, y=neutral),
+        go.Bar(name='Stop Words', x=country, y=stopWord),
+        go.Bar(name='Positive Words', x=country, y=positive),
+        go.Bar(name='Negative', x=country, y=negative)
+    ])
+    # Change the bar mode
+    fig1.update_layout(barmode='group')
+    fig1.write_html('Word Counts Graph.html', auto_open=True)
+
+    #graph for percentage
     fig = go.Figure(data=[
         go.Bar(name='Positive Word Percentage', x=country, y=positiveW),
         go.Bar(name='Negative Word Percentage', x=country, y=negativeW)
@@ -173,16 +173,7 @@ with open('output.txt', 'r') as data:
     # Change the bar mode
     fig.update_layout(barmode='group')
     fig.write_html('Bar Graph.html', auto_open=True)
-    """
-    x_axis = np.arange(len(country))
-    width1 = 0.2
-    plt.bar(x_axis - width1, positiveW, width=0.4, label='Positive Value')
-    plt.bar(x_axis + width1, negativeW, width=0.4, label='Negative Value')
-    plt.xticks(x_axis, country)
-    plt.legend(loc='upper center', bbox_to_anchor=(0.5, -0.05),
-               fancybox=True, shadow=True, ncol=5)
-    plt.show()
-    """
+
     print("\n")
     # conclusion
     print("Summary from the Analysis in Percentage (%)")
