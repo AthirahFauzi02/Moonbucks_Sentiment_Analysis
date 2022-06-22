@@ -3,17 +3,16 @@ import numpy as np
 import io
 import pandas as pd
 
-def ShellSort(A, n):
-    gap = n // 2
-    while gap > 0:
-        for i in range(gap, n):
-            temp = A[i]
-            j = i
-            while j >= gap and A[j - gap] < temp:
-                A[j] = A[j - gap]
-                j -= gap
-            A[j] = temp
-        gap = gap // 2
+def BubbleSort(Probability, n):
+    swapped = False
+    # Traverse through all array elements
+    for i in range(n - 1):
+        for j in range(0, n - i - 1):
+            if Probability[j] < Probability[j + 1]:
+                swapped = True
+                Probability[j], Probability[j + 1] = Probability[j + 1], Probability[j]
+        if not swapped:
+            return
 
 sentiment = []
 CountryProb = []
@@ -22,13 +21,17 @@ output1 = []
 positiveList = []
 costList = []
 probability1 = []
+
+with open('Cost.txt', 'r') as data2:
+    for line in data2:
+        column = line.split(' ')
+        cost = float(column[0])
 with open('output.txt', 'r') as data:
     for line in data:
         cells = line.split(" ")
         country1 = cells[0]
         country.append(cells[0])
         positive = float(cells[5])
-        cost = float(cells[8])
         positiveList.append(positive)
         costList.append(cost)
         totalPos = sum(positiveList)
@@ -38,12 +41,10 @@ with open('output.txt', 'r') as data:
         CountryProb.append((country1, probability))
         sentiment.append((country1, positive, cost, probability))
         df = pd.DataFrame(sentiment, columns=["Country", "Positive Percentage", "Cost", "Probability"])
-        #probability[:] = [float(sentiment)]
-        #ShellSort(probability, 5)
-        #sort = df.sort_values(by = "Probability", ascending= False)
+
     print(df)
     arr = probability1.copy()
-    ShellSort(arr, len(arr))
+    BubbleSort(arr, len(arr))
     for x in range(0, len(arr)):
         arr[x]
 

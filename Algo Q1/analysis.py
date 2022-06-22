@@ -110,7 +110,7 @@ class Freq:
 
         outputFile = open('output.txt', 'a')
         outputFile.write(country + " " + str(neutral) + " " + str(st_count) + " " + str(positive) + " " + str(negative) + " " + str("%.2f" % Ppercent) + " " + str("%.2f" % Npercent) + " " + str("%.2f" % NePercent) + "\n")
-    
+
 fr=Freq
 filter=["filteredtext.txt","filteredtext1.txt","filteredtext2.txt","filteredtext3.txt","filteredtext4.txt"]
 line=["canada.txt","indonesia.txt","malaysia.txt","singapore.txt","us.txt"]
@@ -177,29 +177,6 @@ with open('output.txt', 'r') as data:
     print(df)
 
     maxPercent = max(positiveW)
-    print("Based on the result, it can be concluded that article about Singapore"
-          "\nhas the highest percentage of positive words which is" + " " + str(maxPercent))
+    #print("Based on the result, it can be concluded that article about Singapore"
+        #  "\nhas the highest percentage of positive words which is" + " " + str(maxPercent))
 
-"""
-    inputSize = len(positiveW)
-    gap = inputSize//2
-    while gap>0:
-        for i in range(gap, inputSize):
-            temp = positiveW[i]
-            j=i
-            while j>=gap and positiveW[j-gap]<temp:
-                positiveW[j]=positiveW[j-gap]
-                j-=gap
-            positiveW[j]=temp
-        gap = gap//2
-    print(positiveW)
-"""
-"""
-#plot graph
-values = [neutral, stopWord, positive, negative]
-fig3 = px.line(x = country, y = values, labels={
-                 "x": "Country", "value": "Word Count", "variable":"Types of word", "wide_variable_0":"Neutral"
-             }
-              ,title = "Words count")
-fig3.write_html('Line Graph.html', auto_open=True)
-"""
