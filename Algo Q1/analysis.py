@@ -1,15 +1,15 @@
 import numpy as np
-import matplotlib.pyplot as plt
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
-from plotly.subplots import make_subplots
+
 
 class Node:
    def __init__(self):
        self.children = {}
        self.last_letter = False
- 
+
+#trie algorithm
 class Trie:
  
     def __init__(self):
@@ -44,44 +44,45 @@ class Trie:
             cur = cur.children[ch]
         return True
 
+#calculate frequencies for words
 class Freq:
     def frequency(country,filter):
-        neg_w=open("NEGATIVE WORDS.txt")
+        neg_w=open("NEGATIVE WORDS.txt") #read textfile of negative word
         T = Trie()
         for x in neg_w:
             T.insert(x)
 
         tr=Trie()
-        pos_w= open("POSITIVE WORDS.txt")
+        pos_w= open("POSITIVE WORDS.txt") #read textfile of positive word
         for z in pos_w:
             tr.insert(z)
 
         st_count=0
         filt_freq=[]
-        stop_words= open("STOP WORDS.txt","r")
+        stop_words= open("STOP WORDS.txt","r") #read textfile of stop word
         stopw= stop_words.read()
         st=stopw.splitlines()
-        with open(country, encoding="utf-8") as f:
+
+        with open(country, encoding="utf-8") as f: #read countries' article text file
             for lines in f:
                 words = lines.split()
-                for r in words: 
-                    if not r in st: 
-                        appendFile = open(filter,'a') 
+                for r in words:
+                    if not r in st: #match stop word from text file and filter stop word
+                        appendFile = open(filter,'a') #append words without stop word in new text file
                         appendFile.write(r+"\n") 
                         filt_freq.append(r)
                     else:
-                        st_count+=1
+                        st_count+=1 #count frequencies of stop word
             appendFile.close()
 
 
         p_wordfreq=[]
-        with open(filter) as file1:
+        with open(filter) as file1: #read file of filtered text
             for line in file1:
                 word1 = line.split()
                 for i in word1: 
                     if tr.startwithPrefix(i):
                         p_wordfreq.append(i)
-                        # print(wordfreq)
                     else:
                         break
 
@@ -92,7 +93,6 @@ class Freq:
                 for j in word2: 
                     if T.startwithPrefix(j):
                         n_wordfreq.append(j)
-                        # print(wordfreq)
                     else:
                         break
 
@@ -145,15 +145,7 @@ with open('output.txt', 'r') as data:
         negative.append(float(column[4]))
         positiveW.append(float(column[5]))
         negativeW.append(float(column[6]))
-    """
-    #plot graph
-    values = [neutral, stopWord, positive, negative]
-    fig = px.line(x = country, y = values, labels={
-                     "x": "Country", "value": "Word Count", "variable":"Types of word", "wide_variable_0":"Neutral"
-                 }
-                  ,title = "Words count")
-    fig.write_html('Line Graph.html', auto_open=True)
-    """
+
     #graph for word counts
     fig1 = go.Figure(data=[
         go.Bar(name='Neutral Words', x=country, y=neutral),
@@ -201,4 +193,13 @@ with open('output.txt', 'r') as data:
             positiveW[j]=temp
         gap = gap//2
     print(positiveW)
+"""
+"""
+#plot graph
+values = [neutral, stopWord, positive, negative]
+fig3 = px.line(x = country, y = values, labels={
+                 "x": "Country", "value": "Word Count", "variable":"Types of word", "wide_variable_0":"Neutral"
+             }
+              ,title = "Words count")
+fig3.write_html('Line Graph.html', auto_open=True)
 """
