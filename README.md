@@ -1,4 +1,4 @@
-# algoQ1_Updated
+# Starbuck_Sentiment_Analysis
 Project Name: **Starbucks Sentiment Analysis**
 
 This system was created from **December 2020 until January 2021**
