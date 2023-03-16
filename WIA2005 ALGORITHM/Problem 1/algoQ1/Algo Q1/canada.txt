@@ -1,0 +1,788 @@
+statistics canada has long had the privilege of serving canadians by providing them with high-quality information on society and the economy the pandemic has strengthened statistics canadas commitment to sharing new timely information that gives insights on how covid-19 has impacted canadian households and businesses
+
+covid-19 continues to impact canadians with approximately 132000 hospitalizations and over 35000 deaths to date canadians continue to respond over 30 million people are fully vaccinated despite these efforts the spread of omicron means canadians continue to live with covid-19 but perhaps in a different way as restrictions begin to lift across the country to mark the second year of the pandemic statistics canada is reviewing the major social and economic impacts on the lives of canadians and on canadian businesses and highlighting potential longer-term structural changes moving forward this review builds on previous efforts to track impacts throughout the pandemic including covid-19 in canada a year-end update on social and economic impacts released in december 2021; covid-19 in canada a one-year update on social and economic impacts released to mark the first year of the pandemic; and the social and economic impacts of covid-19 a six-month update
+
+statistics canada is committed to continue tracking and reporting on the ongoing social and economic impacts of the pandemic through new and ongoing data development and analysis illuminating the differential impacts on canadians
+
+anil arora chief statistician of canada
+
+image social and economic impacts of covid-19 timeline
+
+description for figure
+social and economic impacts of covid-19 timeline
+
+march 11th - covid-19 declared a pandemic
+march 25th - canada introduces emergency response benefit cerb
+cumulative employment losses in march and april total 3000000
+april 2020
+
+output is 17% below its pre-pandemic level
+
+retail sales surpass pre-covid-19 levels
+
+second wave beta variant begins
+
+covid-19 vaccinations begin
+canada surpasses 15000 deaths related to covid-19
+output recovers to within 4% of its pre-covid-19 baseline
+employment recovers to within 650000 of its pre-covid-19 level
+january 2021
+
+largest employment decline since initial wave
+march 2021
+
+value of household real estate rises nearly $600 b in q1 2021 up almost a quarter from pre-covid-19 levels
+march/april third wave gamma variant begins
+april 2021
+
+headline consumer inflation surpasses 3%
+september 2021
+
+fourth wave delta variant begins
+80% of eligible canadians are fully vaccinated
+employment recovers to pre-pandemic levels
+november 2021
+
+output recovers to pre-covid-19 baseline
+
+fifth wave omicron variant begins
+
+canada surpasses 33000 deaths related to covid-19
+headline inflation 51% hits 30-year high
+the pandemic has had significant indirect health impacts that will affect the future health of canadians
+mental health declines have not recovered to pre-pandemic levels as of june 2021 61% of canadians reported very good or excellent mental health compared with 67% in 2019 the decline is greater among women -75 percentage points compared with men -40 percentage points
+an estimated 26248 excess deaths were reported in canada from march 2020 to mid-october 2021—58% more deaths than would be expected with no pandemic
+early in the pandemic excess deaths occurred mainly among seniors with covid-19 but later there was an increase among younger canadians as well with many deaths caused by unintentional poisonings and overdoses
+health impacts will be felt for a long time modelling projections show that a six-month delay in colorectal cancer screening could increase cases by 2800 and deaths by 1300 between the years 2020 and 2050 the lancet april 2021
+image estimated percentage of excess and covid-19 deaths by age group canada march 28 2020 to october 16 2021
+
+data table
+estimated percentage of excess and covid-19 deaths by age group canada march 28 2020 to october 16 2021
+table summary
+this table displays the results of estimated percentage of excess and covid-19 deaths the information is grouped by age appearing as row headers excess deaths and covid-19 deaths calculated using percent units of measure appearing as column headers
+age	excess deaths	covid-19 deaths
+source statistics canada special tabulations
+the pandemic has impacted public safety and social cohesion
+while overall crime levels decreased during the pandemic there was a 7% increase between 2020 and 2021 in selected crimes ie assault sexual assault uttering threats robbery motor vehicle theft and shoplifting
+there was a 37% increase in police-reported hate crimes—718 more in 2020 compared with 2019 this is the highest number since comparable data have been available and it reflects crimes targeting black asian and indigenous populations
+social unrest has been linked to income inequality in march and april 2020 40% of canadians were very or extremely concerned about the possibility of civil disorder concern was doubled among those expecting that the pandemic would impact their finances compared with those anticipating no impact 61% vs 32%
+number of police-reported hate crimes by type of motivation canada 2017 to 2020
+
+data table
+number of police-reported hate crimes by type of motivation canada 2017 to 2020
+table summary
+this table displays the results of number of police-reported hate crimes 2017 2018 2019 and 2020 calculated using number units of measure appearing as column headers
+2017	2018	2019	2020
+number
+total	2073	1817	1951	2669
+race or ethnicity	878	793	884	1594
+religion	842	657	613	515
+sexual orientation	204	186	265	259
+sex or gender	32	54	56	46
+other motivationnumber of police-reported hate crimes by type of motivation canada 2017 to 2020 note 1	85	105	94	143
+note 1
+includes mental or physical disability language age and other similar factors eg occupation or political beliefs
+
+return to note 1 referrer
+
+notes hate crime counts from the uniform crime reporting survey include both confirmed and suspected hate crime incidents information in this chart reflects data reported by police services covering 997% of the population of canada the total includes incidents where hate motivation was unknown
+source statistics canada canadian centre for justice and community safety statistics incident-based uniform crime reporting survey
+canadian demographics were hit by the pandemic but are recovering quickly
+in 2020
+
+population growth +04% fell to levels not seen since the first world war annual deaths surpassed 300000 for the first time +8%
+life expectancy went down by 06 years—the largest single-year decline since 1921
+one in five canadian adults said the pandemic made them delay having children or choose to have fewer
+the percentage of population growth from international migration was 68% down from a record high of 85% in 2019
+the largest net loss of non-permanent residents -88901 was caused by declines in student- and work-permit holders
+more canadians returned to live rather than leaving the country—net emigration was negative -13997 for the first time since comparable records have been available
+although the pandemic weakened the countrys population growth in 2020 data from the 2021 census show that canadas population grew at almost twice the pace of other g7 countries from 2016 to 2021—18 million more than in 2016 +52% most of the growth was caused by immigration before the pandemic since mid-2021 immigration numbers have been recovering to pre-pandemic levels
+
+image factors of population growth canada first quarter of 2017 to third quarter of 2021
+
+data table
+factors of population growth canada first quarter of 2017 to third quarter of 2021
+table summary
+this table displays the results of factors of population growth natural increase and net international migration calculated using persons units of measure appearing as column headers
+natural increase	net international migration
+persons
+source statistics canada tables 17-10-0059-01 and 17-10-0040-01
+more stress on pocketbooks as supply disruptions and strong demand continue to fuel consumer inflation
+headline consumer inflation +51% was at a 30-year high in january 2022
+prices for food and shelter rose steadily over 2021 in january annual price increases for both food +57% and shelter +62% were above the headline rate grocery prices rose at their fastest yearly pace +65% since may 2009
+excluding gasoline consumer price growth was 43% in january the largest yearly increase since this index became available in 1999
+consumer inflation has outpaced average wage growth since the spring of 2021
+the annual increase in average hourly wages adjusted for changes in composition of employment during the pandemic was 27% in january unadjusted for these changes average hourly wages rose 24%
+image average hourly wages and consumer prices
+
+data table
+average hourly wages and consumer prices
+table summary
+this table displays the results of average hourly wages and consumer prices average hourly wages fixed-weight measure and consumer price index calculated using index january 2018=100 units of measure appearing as column headers
+average hourly wages fixed-weight measure	consumer price index
+notes average hourly wages labour force survey fixed-weight one-year percent change january 2021 to january 2022 27%
+consumer price index one-year percent change january 2021 to january 2022 51%
+sources statistics canada labour force survey special tabulations and table 18-10-0004-01
+the costs of middle-class membership rise as home prices continue to surge across the country
+homebuilders in a majority of census metropolitan areas reported double-digit increases in new home prices during 2021 annual increases exceeded 20% in windsor winnipeg ottawa and london and 30% in kitchener–cambridge–waterloo
+the canadian real estate associations multiple listing service home price index was up 266% on a year-over-year basis in december 2021 home prices in the greater toronto area were up over 30%
+analysis at the bank of canada indicates that the share of home purchases accounted for by first-time buyers has continued to edge down during the pandemic while the shares for repeat buyers and investors have risen 
+according to rbc economics housing affordability in the third quarter of 2021 was at a 31-year low cibc economics has reported that about 30% of first-time buyers have received down payment gifts
+financial barriers to homeownership may have lasting impacts on social and economic mobility on a per-household basis homeowners have seen their wealth rise by over $260000 during the pandemic while renters have seen gains of $50000
+image net worth per household fourth quarter of 2019 and third quarter of 2021
+
+data table
+net worth per household fourth quarter of 2019 and third quarter of 2021
+table summary
+this table displays the results of net worth per household fourth quarter of 2019 and third quarter of 2021 calculated using dollars units of measure appearing as column headers
+fourth quarter of 2019	third quarter of 2021
+dollars
+renters	218200	267708
+owners with mortgage	744271	945380
+all households	787907	981932
+owners without mortgage	1474027	1810574
+source statistics canada table 36-10-0660-01
+labour market conditions improved for diverse canadians in the second half of 2021
+lockdown measures earlier in the pandemic disproportionately impacted diverse canadians—including newcomers and many canadians in racialized communities—who are more likely to work in high-contact settings job recovery strengthened for many diverse groups in the second half of 2021
+employment rates among many groups designated as visible minorities including southeast asian black and filipino canadians rose notably during 2021
+the share of very recent immigrants of core working age who were working was almost 8 percentage points higher in december 2021 than in december 2019
+employment among indigenous people in canada in december was up 10% year over year 
+the impact of omicron in january 2022 was widely felt the decline in the employment rate for core-aged members of groups designated as visible minorities -16 percentage points to 798% was similar to the decline observed for canadians who do not identify as a visible minority and are not indigenous -15 percentage points to 846% 
+there were impacts on job quality too in january 2022 members of groups designated as visible minorities 85% were more likely than those who did not identify as a visible minority 67% to report that they were planning to leave their job in the next 12 months and to cite low pay as their main reason for doing so
+in the fourth quarter of 2021 nearly half of businesses owned by members of groups designated as visible minorities 484% stated that the absence of government support programs would have a medium-to-high impact on the survival of their business compared with one-third of all canadian businesses
+image unemployment rate by population group designated as a visible minority canada january 2022
+
+data table
+unemployment rate by population group designated as a visible minority canada january 2022
+table summary
+this table displays the results of unemployment rate the information is grouped by population group appearing as row headers unemployment rate calculated using percent units of measure appearing as column headers
+population group	unemployment rate
+percent
+not indigenous or a visible minority	62
+total visible minority	80
+source statistics canada special tabulations
+labour market imbalances will persist as employers and workers continue to adjust
+demand for workers accelerated to record levels during the second half of 2021 job vacancies in the third quarter rose over 60% compared with pre-pandemic levels reflecting increases in all provinces and most industrial sectors
+no “great resignation” in canada in late 2021 the number of job-leavers and job-changers remained comparable to pre-pandemic levels as did the share of unemployed workers who returned to work in the same industry as their last job about 50% in january 2022 fewer than 1 in 10 workers were planning to leave their job over the next 12 months
+businesses are adjusting their hiring strategies—employers appear to be lowering educational requirements to attract workers in late 2021 about 10% of workers who had a high school diploma or less had recently started jobs that typically require university education up from 40% in late 2019
+businesses are adjusting their wage plans in the two years leading up to november 2021 wages among new hires rose by 10% compared with 64% for established employees in the fourth quarter of 2021 almost half of businesses reported that they planned to raise wages for existing employees over the coming year while one-quarter planned to increase wages offered to new employees
+image job vacancy rates third quarter of 2019 and third quarter of 2021
+
+data table
+job vacancy rates third quarter of 2019 and third quarter of 2021
+table summary
+this table displays the results of job vacancy rates third quarter of 2019 third quarter of 2021 job vacancies and percent growth from third quarter of 2019 to third quarter of 2021 calculated using percent units of measure appearing as column headers
+third quarter of 2019	third quarter of 2021	job vacancies	percent growth from third quarter of 2019 to third quarter of 2021
+percent
+all industries	33	54	912600	62
+accommodation and food services	52	129	163000	113
+health care and social assistance	31	52	118200	79
+retail trade	34	50	104100	45
+manufacturing	30	50	81200	62
+construction	36	63	75300	84
+note the numbers in bold are the number of reported job vacancies in q3 2021 and the percentage increase since q3 2019
+source statistic canada table 14-10-0326-01
+longer-lasting impacts of the pandemic on work are likely to exacerbate existing inequalities
+about 40% of canadians hold permanent pandemic-resilient jobs that are less likely to be impacted by automation triple-protected jobs higher-paid more educated workers are far more likely to hold these jobs
+couples in the top 10% of the earnings distribution were about 20 times more likely to have triple-protected jobs than couples in the bottom 10%
+couples with postsecondary degrees were seven times more likely to hold triple-protected jobs than couples without postsecondary credentials
+challenges to job and income stability continue to persist in lower-paying high-contact sectors
+while total employment rebounded to pre-covid-19 levels in september 2021 employment in accommodation and food services remained 211000 below pre-pandemic levels as of december that year this was before additional losses of 113000 in january 2022 when tighter restrictions related to omicron were in effect
+conversely employment in professional technical and scientific services—a sector with some of the highest levels of job flexibility and telework capacity—has risen by 179000 since the start of the pandemic
+image job is triple protected by wage decile
+
+data table
+job is triple protected by wage decile
+table summary
+this table displays the results of job is triple protected the information is grouped by wage decile appearing as row headers job is triple protected calculated using percent units of measure appearing as column headers
+wage decile	job is triple protected
+source frenette m and r morissette 2021 job security in the age of artificial intelligence and potential pandemics economic and social reports statistics canada catalogue no 36-28-0001
+financial uncertainties deepen for many businesses as emergency support programs wind down
+emergency programs have been a critical lifeline for many businesses during the pandemic business insolvencies have remained below pre-covid-19 levels but rose 37% in the fourth quarter of 2021
+during the fourth quarter of 2021 one-third of businesses reported that the absence of government support programs over the next 12 months would have a medium-to-high impact on their survival this includes almost two-thirds of those in accommodation and food services and 40% of businesses with 5 to 19 employees
+about 15% of all businesses reported that it would be a major challenge to pay off funding received from repayable government support programs over the next 12 months including almost 40% of those in accommodation and food services 
+financial stresses may become more acute as cost pressures continue to rise in the fourth quarter 43% of businesses expected rising input costs to be an obstacle in the coming months including 71% of manufacturers and two-thirds of businesses in accommodation and food services
+image share of businesses reporting that the absence of government support programs in the next 12 months would have a medium-to-high impact on their business survival fourth quarter of 2021
+
+data table
+share of businesses reporting that the absence of government support programs in the next 12 months would have a medium-to-high impact on their business survival fourth quarter of 2021
+table summary
+this table displays the results of share of businesses reporting that the absence of government support programs in the next 12 months would have a medium-to-high impact on their business survival the information is grouped by industry appearing as row headers fourth quarter of 2021 calculated using percent units of measure appearing as column headers
+industry	fourth quarter of 2021
+percent
+all industries	333
+accommodation and food services	637
+arts entertainment and recreation	590
+manufacturing	383
+retail trade	334
+information and cultural industries	331
+transportation and warehousing	330
+health care and social assistance	327
+administrative and support waste
+management and remediation services	324
+construction	290
+mining quarrying and oil and gas extraction	239
+real estate and rental and leasing	236
+professional scientific and technical services	233
+finance and insurance	116
+source statistics canada table 33-10-0417-01
+impacts of the pandemic on canadian competitiveness remain an open question
+business productivity has fallen back to pre-pandemic levels the sharp increase in productivity early in the pandemic in part reflected the shift in hours worked from less to more productive industries when many non-essential businesses were shuttered business productivity has declined since mid-2020 as non-essential businesses ramped up their activities
+overall business productivity in the fourth quarter of 2021 was 12% below levels observed in late 2019 
+growing pressures on cost competitiveness unit labour costs in the business sector which measure the payments to labour required to produce a unit of output were up 60% year-over-year in the fourth quarter of 2021 and have trended higher over the course of the pandemic
+non-residential business investment has been slow to recover important drivers of productivity and wage growth non-residential outlays on structures and machinery and equipment were still 62% below pre-pandemic levels in late 2021 and down nearly one quarter from levels observed before the oil price shock in the mid-2010s 
+business spending on research and development scaled back during the second half of 2021 and was 11% below pre-pandemic levels late in the year 
+investments in digital technologies and the longer-term impacts of working from home may be important factors affecting business competitiveness 
+image hours worked in canadian businesses rebound faster than real output
+
+data table
+hours worked in canadian businesses rebound faster than real output
+table summary
+this table displays the results of hours worked in canadian businesses rebound faster than real output real gross domestic product hours worked and labour productivity calculated using quarterly percent change units of measure appearing as column headers
+real gross domestic product	hours worked	labour productivity
+quarterly percent change
+looking forward
+the unintended health impacts of covid-19 restrictions along with the impacts of post covid-19 condition will be felt for years and will continue to strain health care resources
+recent protests against pandemic restrictions are indicative of growing divisions among canadians and the potential long-term impacts on social cohesion are difficult to predict
+canadas population grew at almost twice the pace of other g7 countries from 2016 to 2021 primarily from immigration prior to the pandemic lower immigration during covid-19 coupled with structural pressures related to population aging will continue to impact labour market imbalances
+to what extent will the accelerated shift towards automation and digital technologies in low-wage sectors create new employment opportunities?
+high inflation and modest wage gains suggest that pressures related to affordability will worsen in the near term—especially if prices for food and shelter continue to rise
+financial barriers to homeownership may have lasting impacts on social and economic mobility especially for new canadians and younger families
+as targeted wage subsidies and lockdown supports wind down businesses in high-contact sectors face continued uncertainty as input costs rise and vacancies remain near record levels 
+will digitalization and working from home lead to permanent increases in businesses productivity?
+Groups that have experienced historical disadvantage and who are identified by Code grounds are more likely to experience low social and economic status.[75]
+
+Poverty is linked closely with inequality, particularly for women (especially lone mothers and elderly women), Aboriginal people, racialized groups and people with disabilities. Therefore, policies and practices that disadvantage people who have low incomes are likely to disproportionately disadvantage members of Code-identified groups.
+
+A person’s social and economic status is highly relevant to their housing situation. More often than not, it will dictate the type of housing available and the likelihood that they will get the housing they are seeking. High market rents, insufficient social housing supply, low minimum wage and social assistance rates, and income-related rental requirements all make it very hard for a person who has low social and economic status to find and keep adequate housing.
+
+Tenants with low social and economic status are also more vulnerable to differential treatment by housing providers. Some housing providers have negative attitudes towards people who are poor. They may screen out prospective tenants based on stereotypes about poverty and poor people, they may impose illegal rental criteria (such as security deposits), they may provide substandard housing-related services, they may engage in harassing behaviour, and/or they may be more quick to try to evict.
+
+Poverty, if left unaddressed, and if not understood as part of larger patterns of systemic discrimination, can undermine the cohesion and prosperity of our communities. One of the most extreme outcomes of low social and economic status is homelessness.[76] Discrimination puts many groups at higher risk of homelessness. And, once a person or a family becomes homeless, it is very hard to re-enter the “mainstream” of society, and the potential for unequal treatment and further discrimination increases steadily.[77] Inadequate housing is also cited often as a significant factor in the relinquishment or apprehension of children into the care of children’s aid societies. Once children are separated from their parents, it may be very challenging for parents to regain custody.[78]
+
+Social and economic rights and homelessness in Canada and Ontario have been identified as a priority by international human rights bodies. The Universal Declaration of Human Rights[79], adopted by the United Nations General Assembly in December 1948, proclaimed the inviolability of social and economic rights. Article 2 of the Declaration states that everyone is entitled to these rights without distinction of any kind based on grounds such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status.
+
+The moral statements expressed in the Declaration were given legal force through two covenants: the International Covenant on Civil and Political Rights[80] and the International Covenant on Economic, Social and Cultural Rights. The ICESCR is one of the most influential and comprehensive international documents in the area of social and economic rights, and directly addresses the right to housing.[81] Article 11 of the ICESCR states:
+
+The States Parties to the present Covenant recognize the right of everyone to an adequate standard of living for himself and his family, including adequate food, clothing and housing, and to the continuous improvement of living conditions. The States Parties will take appropriate steps to ensure the realization of this right, recognizing to this effect the essential importance of international co-operation based on free consent. [emphasis added]
+
+General Comment 4: The Right to Adequate Housing by the Committee on Economic, Social and Cultural Rights[82] clarifies that the right is to adequate housing, including considerations of security of tenure, accessibility, habitability, and affordability, among others. Financial costs associated with housing should not be at a level that compromises or threatens attaining and satisfying other basic needs.[83]
+
+Canada became a party to the ICESCR in 1976, and by doing so agreed to take appropriate steps towards realizing the right to adequate housing. Under the ICESCR, governments must periodically report on progress being made on implementing and realizing rights set out in the Covenant.
+
+Article 28 states that the Covenant's provisions "shall extend to all parts of federal States without any limitations or exceptions." For this reason, the ICESCR is binding on the federal government and each of the provinces and territories, and rights that are within provincial competence are the obligation of the provincial and territorial governments.[84]
+
+Article 2 describes the nature of the legal obligations under the ICESCR and the way that States Parties should approach implementing the substantive rights. States Parties must take steps to the maximum of their available resources with a view to achieving progressively the full realization of ICESCR rights by all appropriate means. General Comment No. 9: The Domestic Application of the Covenant by the Committee on Economic, Social and Cultural Rights states that legislative measures alone are not enough: administrative, judicial, policy, economic, social and educational measures will be required by governments to ensure ICESCR rights.[85]
+
+It is clear that for many Canadians, the realization of these international and domestic rights has been sporadic at best. One’s housing situation is generally a good indicator of one’s overall social and economic condition. Many continue to struggle in the rental housing market, and may find themselves in housing that is neither affordable nor adequate, or, in extreme cases, may find themselves homeless.
+
+On several occasions, the United Nations has expressed significant concern about Canada’s record in implementing social and economic rights.[86] For example, the Concluding Observations issued by the Committee on Economic, Social and Cultural Rights in 1998 expressed serious concern about the state of economic and social rights in a country as wealthy as Canada.[87]
+
+In May 2006, the Committee on Economic, Social and Cultural Rights issued its review of Canada’s compliance with the Covenant. The Committee was critical of the fact that 11.2% of Canada’s population still lived in poverty in 2004, particularly in light of Canada’s economic wealth and resources. The Committee noted with concern that poverty rates remain very high among disadvantaged and marginalized people and groups such as Aboriginal people, African Canadians, immigrants, people with disabilities and youth.[88] The Committee was also concerned about the disproportionate number of women, especially lone mothers, living in poverty and the effect that one’s social and economic status has on one’s ability to access adequate housing. Some reports have directly attributed blame to cuts in social funding.[89]
+
+The Committee also commented on the “insufficiency of minimum wage and social assistance to ensure the realization of the right to an adequate standard of living.”[90] The Committee recommended that “the State party assess the extent to which poverty is a discrimination issue in Canada, and ensure that measures and programs do not have a negative impact on the enjoyment of economic, social and cultural rights, especially for disadvantaged and marginalized individuals and groups.”[91]
+
+Most recently, Miloon Kothari, the United Nations Special Rapporteur on adequate housing, noted in his March 2008 statement:
+
+As a very wealthy country, with significant surplus in the federal budget, immediate attention is required for the most vulnerable part of the population living in inadequate housing and living conditions. There is no justification for not massively engaging in the improvement of the situation of all those that face inadequate housing and living conditions throughout Canada.[92]
+
+Canada has also been subjected to criticism in the international context for the failure of its courts to provide remedies for violations of social and economic rights. Judicial and legislative reluctance to address social and economic issues as rights has real consequences for vulnerable groups, and has contributed to an increased focus on the role of human rights bodies in protecting these rights.[93]
+
+1. Addressing issues of poverty in housing
+It is clear that Canada’s promise to give effect to social and economic rights, including the right to adequate housing, will not be sufficiently realized unless governments, courts, tribunals, administrative bodies, housing providers, and other responsible actors take appropriate steps to ensure their fulfillment.
+
+By endorsing the ICESCR, Canada committed to taking the necessary steps to make sure that all Canadians have access to adequate and affordable housing options. The extent of homelessness in cities across the country is just one indicator that many Canadians continue to face grave challenges finding appropriate housing. The OHRC has recommended that the federal, provincial and territorial governments of Canada coordinate their efforts to develop a national housing strategy to make sure that all Canadians have access to housing of an appropriate standard.[94]
+
+Courts, tribunals and administrative bodies have a significant role to play in helping to fulfill Canada’s international commitment to provide adequate housing. Decision-makers who interpret housing-related legislation should do so in accordance with the right to adequate housing set out in the ICESCR. The Supreme Court of Canada has stated that Canadian law should provide at least as much protection as international human rights law, and, international law, according to the Court, helps give meaning and content to Canadian law. As L’Heureux-Dubé, J. stated in Baker v. Canada, one of the Court’s leading cases on the relationship of international law to Canadian law:
+
+[T]he values reflected in international human rights law may help inform the contextual approach to statutory interpretation and judicial review... [T]he legislature is presumed to respect the values and principles enshrined in international law, both customary and conventional. These constitute a part of the legal context in which legislation is enacted and read. In so far as possible, therefore, interpretations that reflect these values and principles are preferred.[95]
+
+Thus, the Supreme Court has affirmed that decision-makers should, as much as possible, and particularly in the absence of a contrary interpretation, be guided by Canada’s international obligations and the directions of international instruments, norms, laws, and interpretive bodies. Decision-makers that deal with housing issues should view themselves as local monitors of Canada’s international commitments and make every effort to use the lens of international human rights when deciding housing matters. In light of the fundamental importance of housing to an individual and to society at large, decision-makers should consider a tenant’s social and economic status when making housing decisions.[96]
+
+Human rights legislation in Canada includes a range of protections in specified areas, including housing, to make sure that discrimination does not prevent people from participating equally in their communities. Since this legislation has a quasi-constitutional status, international law has a special relationship to human rights codes. Human rights decision-makers should, therefore, look to international law to expand current understandings of human rights legislation to include economic, social and cultural rights within their mandates. As the Universal Declaration reminds us, economic, social and cultural rights go to the core of dignity and equality. In this regard, human rights decision-makers should use the ICESCR as an interpretive tool in how they enforce, promote and give full attention to these rights when fulfilling all aspects of their mandates.[97]
+
+The Ontario Human Rights Code emphasizes the importance of creating a climate of understanding and mutual respect for the dignity and worth of each person, so that each person can contribute fully to the development and well-being of the community. This sentiment is consistent with Canada’s international human rights commitments. The explicit reference in the Code’s Preamble to the Universal Declaration of Human Rights reinforces the notion that the Code should be interpreted in a way that is consistent with international human rights principles. This means that the Code’s protections against discrimination in housing should be interpreted in light of Canada’s commitment under the ICESCR to protect and promote social and economic rights, including the right to adequate housing.
+
+The Code provides protection against discrimination in housing based on specific grounds, including “receipt of public assistance.” The inclusion of “receipt of public assistance” allows some individuals with low social and economic status to file human rights claims where they have been subjected to differential treatment in housing. However, many people with low social and economic status will not be in receipt of public assistance (e.g. people earning low wages, homeless people, etc.), but will still experience differential treatment in housing. In many cases, given the strong link between low social and economic status and membership in a Code-protected group, these people will be identified by one
+or more Code grounds, and may experience discrimination based on an intersection of low social and economic status with other grounds.
+
+Example: A housing provider denies a lone working mother with two children a one-bedroom apartment, even though she cannot afford a larger apartment. Although the grounds for the claim would be marital status and family status (receipt of pubic assistance is not applicable as the woman is working), it is the woman’s social and economic status that forces her to rent a one-bedroom apartment.
+
+In such cases, decision-makers, as well as housing providers, should consider the impact that low social and economic status has on the overall discrimination experienced by the person.
+
+An example of successfully protecting social and economic rights in the context of housing is the decision of an Ontario human rights tribunal in Kearney v. Bramalea Ltd. (No. 2).[98] The case involved the use by several landlords of minimum income criteria or rent-to-income ratios when assessing applications
+for tenancy. Statistical evidence showed that the landlords’ use of such criteria had a disparate impact on individuals based on their sex, race, marital status, family status, citizenship, place of origin, age and the receipt of public assistance. The landlords could not establish a defence as they could not show that the use of the criteria was reasonable and bona fide, or that stopping the use of the criteria would cause undue hardship.
+
+The approach used in Kearney recognized the intersection between social and economic status and grounds that are protected in the Code. The case sets a very important precedent for adjudicating social and economic rights before the Human Rights Tribunal of Ontario where evidence exists that discrimination based on social and economic status disproportionately affects groups that have been traditionally protected under human rights legislation.[99] The case has already been cited in several other decisions involving denial of rental accommodation[100] and has been referred to extensively in papers and articles as an example of a crucial victory for people living in poverty.[101]
+
+The Government of Ontario has acknowledged the connection between poverty and human rights. Section 2(2)3 of the Poverty Reduction Act, 2009[102] recognizes, “That not all groups of people share the same level of risk of poverty. The poverty reduction strategy must recognize the heightened risk among groups such as immigrants, women, single mothers, people with disabilities, aboriginal peoples and racialized groups.” Section 2(3)3 of the Act also recognizes that “housing” is one of the key determinants of poverty and accordingly requires annual reporting on indicators to measure its success.
+
+Because of the close connection between low social and economic status and membership in a Code-protected group, measures that subject people who have low social and economic status to differential treatment will frequently raise human rights concerns. Government, housing planners, policy-makers and housing providers should take make sure that their policies and practices do
+not have an adverse impact on people identified by Code grounds.
+
+Example: A housing provider directs certain applicant groups including students, new immigrants and lone mothers into its older, more run-down, yet more expensive buildings. The housing provider is less likely to respond to repair requests from people living in these buildings and more likely to seek eviction against these groups. However, if a new immigrant or lone mother applicant is in a professional occupation such as a doctor or lawyer, they are offered a much better unit in the housing provider’s newer, less expensive buildings. This form of streaming amounts to discrimination against certain groups because of their low social and economic status, and raises serious human rights concerns.
+
+The creation of special programs, as authorized by section 14 of the Code, can be an effective way for governments and housing providers to help address pre-existing hardship and economic disadvantage in the housing context. See the section of this Policy entitled “Special Programs and Special Interest Organizations” for a more detailed discussion.
+
+Example: A co-op provider appropriately applies an income needs test to applicants wishing to rent a fixed proportion of units subsidized to average market rent for that city. The subsidy scheme is designed to make sure that applicants are offered units adequate to their family size and of the same quality as other units in the building.
+
+Under its new and enhanced mandate, the OHRC has broad powers to protect the public interest and to address incidents of tension and conflict in Ontario’s communities. It is the OHRC’s role to focus its efforts on addressing systemic discrimination and promoting a culture of human rights in the province. To this end, the OHRC will consider, where appropriate, the role that poverty plays in preventing individuals from accessing adequate housing.
+
+[75] The connection between membership in a group identified under the Code and the likelihood
+of having low income has been recognized by the Human Rights Tribunal of Ontario in several decisions, as well as by the Courts: see, for example, Kearney v. Bramalea Ltd. (No. 2) (1998), ibid.
+[76] The homelessness crisis in Ontario’s cities has been well documented. In addition to extensive work conducted by the Toronto Disaster Relief Committee and the City of Toronto’s annual report cards on homelessness, the extensive Golden Report on Homelessness was released in January 1999.
+[77] Homeless people include people living on the streets, “hidden” homeless people who use shelters, and people at imminent risk of becoming homeless. Homeless people often find themselves at the outermost margins of society and are highly vulnerable to ill health, spread
+of disease, harassment, abuse, malnutrition, dehydration, sleep deprivation and life threatening weather. Homelessness may, in turn, lead to the involuntary relinquishment of children to children’s aid societies, and the destruction of families.
+[78] For more information, see pgs. 67-8 of the OHRC’s housing consultation report, supra, note 14.
+[79]Universal Declaration of Human Rights, supra, note 3.
+[80]International Covenant on Civil and Political Rights, 16 December 1966, 999 U.N.T.S. 171, Can. T.S. 1976 No. 47 (entered into force 23 March 1976, accession by Canada 19 May 1976).
+[81] Ontario Ministry of the Attorney General, Constitutional Law and Policy Division, The Protection of Social and Economic Rights: A Comparative Study, Staff Paper (19 September 1991) at 34.
+[82] Committee on Economic Social and Cultural Rights, General Comment 4: The Right to Adequate Housing, 13 December 1991, Article 11(1).
+[83] In addition, there are a series of international conventions, declarations and agreements that address economic, social and cultural rights. In 1995, the United Nations estimated that there were no fewer than 81 formal agreements that address such issues as poverty eradication, employment generation and social integration; J.W. Foster, “Meeting the Challenges: Renewing the Progress of Economic and Social Rights” (1998) 47 U.N.B.L.J. 197 at 197. These instruments have further refined international legal norms relating to a wide range of social and economic
+[84] Before ratification of both the ICESCR and the ICCPR, there was extensive consultation between the federal government and the provinces. After a 1975 Federal-Provincial Ministerial Conference on Human Rights, all the provinces gave their consent to Canada's ratification of both covenants.
+[85] See General Comment No. 9: The Domestic Application of the Covenant, available at: www.unhchr.ch/tbs/doc.nsf/(Symbol)/4ceb75c5492497d9802566d500516036?Opendocument (date accessed: May 13, 2009). As the complaint procedure (Optional Protocol) under the ICESCR has not yet entered into force, the primary mechanism for enforcing the ICESCR is the state reporting and review process. Pursuant to Articles 16 and 17, States parties undertake to submit periodic reports to the ICESCR Committee on the programs and laws they have adopted and the progress made in protecting Covenant rights. The U.N. has proclaimed guidelines for the preparation of reports.
+[86] See Canada United Nations Committee on Economic, Social and Cultural Rights, Consideration of Reports Submitted by States Parties under Articles 16 and 17 of the Covenant (Concluding Observations – Canada), 10 December 1998, E/C.12/1/Add.31 and United Nations Committee on Economic, Social and Cultural Rights, Consideration of Reports Submitted by States Parties under Articles 16 and 17 of the Covenant (Concluding Observations – Canada),
+19 May 2006, E/C.12/CAN/CO/4, E/C.12/CAN/CO/5.
+[87] The more recent 2006 Concluding Observations reiterated that most of the 1993 and 1998 recommendations had not been implemented, supra, note 86.
+[88] The Committee identified a range of concerns, such as Canada’s response to homelessness,
+a shortage of affordable housing, the insufficiency of minimum wage and social assistance rates, increasing poverty rates among Code protected groups, disparities between Aboriginal and African-Canadian people and the rest of the population with respect to realization of ICESCR rights, cuts to social programs, and the discriminatory impact of such cutbacks on certain disadvantaged groups and the significant barriers to enforcing ICESCR rights under domestic law. For more information, see the 2006 Concluding Observations, supra, note 86.
+[89] See for example, the United Nations Committee on Economic, Social and Cultural Rights: Concluding Observations on Report of Canada Concerning the Rights Covered by Articles 10 to 15 of the International Covenant on Economics, Social and Cultural Rights, UN doc. E/C.12/1993/19; 20 CHRR C/1. See also recent media coverage such as “Canada’s Poor Face ‘Emergency’: UN,” The Toronto Star (May 23, 2006), which reported that the United Nations Committee on Economic, Social and Cultural Rights again criticized Canada in its 2006 Annual Report for its inaccessible employment insurance program, its meagre minimum wages, and the fact that it has let homelessness and inadequate housing amount to a “national emergency.”
+[90]Ibid.
+[91] Ibid.
+[92] Kothari, Miloon, “Statement of the Special Rapporteur on adequate housing as a component of the right to an adequate standard of living, and on the right to non-discrimination in this context,” Report presented at the 7th session of the Human Rights Council (12 March 2008) at 6.
+[93] For example, the ICESCR Committee has emphasized the role of human rights institutions and human rights legislation in a country’s efforts to fulfill its commitments under international treaties to achieve the realization of social and economic rights.
+[94] See Recommendations 1-4 of the OHRC’s housing consultation report, supra, note 14.
+[95] Baker v. Canada (Minister of Citizenship and Immigration), [1999] 2 S.C.R 817 at paras. 70-71 citing R. Sullivan, Driedger on the Construction of Statutes (3rd ed. 1994), at p. 330.
+[96] The Concluding Observations of the Committee on Economic, Social and Cultural Rights, supra, note 86 at para. 29 stated: “The Committee notes with particular concern that many evictions occur on account of minimal arrears of rent, without due consideration of the State party’s obligations under the Covenant.”
+[97] The text of the resolutions can be found on the OHRC website: www.ohrc.on.ca
+[98] Kearney v. Bramalea Ltd. (No. 2), (1998), supra, note 74.
+[99] It is not clear what type of evidence is required to make the connection to a prohibited ground of discrimination. However, in both Kearney, ibid. and Dartmouth/Halifax County Regional Housing Authority v. Sparks, (1993) 101 D.L.R. (4th) 224 (N.S.C.A.), statistical evidence was presented and some cases have failed in the absence of empirical evidence (for example, Vander Schaaf v. M & R Property Management Ltd. (2000), supra, note 48, and Symes v. Canada, [1993] 4 S.C.R. 695).
+[100] See, for example, Vander Schaaf, ibid, and Birchall v. Guardian Properties Ltd. (2000), 38 C.H.R.R. D/83 (B.C.H.R.T.).
+[101] See, for example, M. Jackman and B. Porter, “Women’s Substantive Equality and the Protection of Social and Economic Rights under the Canadian Human Rights Act” (Ottawa: Status of Women Canada, October 1999), available online at www.equalityrights.org/cera/docs/MJ&BP.htm . After the case was heard by the tribunal and before the decision was rendered, the Ontario government passed legislation amending the Code to expressly permit the use of income information, credit checks, credit references, rental history, guarantees or other similar business practices in selecting tenants. (See Tenant Protection Act, S.O. 1997, c. 24 amending sections 21 and 48 of the Code.) O. Reg 290/98 under the Code, enacted on May 13, 1998, permits landlords to request and consider income information from a prospective tenant if credit references, credit checks and rental history information are also requested and considered in the screening process.
+As one of the wealthiest nations in the world, Canada's economy is dominated by a strong service industry and an abundance of natural resources. Canada is a country with some of the most educated minds in the world, which is why many industries have moved to the major parts of the country where skilled workers and affordable resources are plentiful.
+
+Canada’s economy has grown at a 3.5-per-cent pace over the past three quarters, a rate generally not seen since the good old days before the Great Recession of 2008-09. Quebec just recorded its lowest unemployment rate on record. Nationwide, there are 1.8 percent more jobs today than a year ago, well above population growth.
+
+As a country under the British crown, Canada has a private to public (Crown) property ratio of 60:40 and one of the highest levels of economic freedom in the world. Let's take a closer look at the Canadian economy and its structure.
+
+Canada's 3 Major Industries
+Canada has a GDP of $1.6trillion ranking 10th nominally and 15th by PPP. Canada has a GDP growth rate of an estimated 0.5% which is projected to grow to 2.2%. The GDP per capita in 2014 was $56100 ranking 10th nominally and 9th by PPP. Services contribute 69.8% to the GDP followed by industry at 28.5% and agriculture at 1.7%. Canada has an unemployment rate of 6.6%, an inflation of 1% and 12.9% of the population live below poverty line.
+
+The Canadian labor force is estimated to be 19 million people. The labor force per sector is estimated as follows: services with 76%, manufacturing 13%, construction 6%, agriculture 2%, and others make up 3% of the labor force. Canada has a public debt of $582 CAD which is 33.8% of the GDP. The revenues are estimated at $682.5 billion against expenses of about $750 billion. Canada has an estimated $65.82 billion in foreign reserves and donates an estimated $4.1 billion.
+
+Canadian Economy
+There are three major industries in Canada which include the service industry, manufacturing and natural resource sectors. As these sectors grow and develop, the need for skilled and qualified workers has become a necessity.
+
+The service industry is dominant in Canada employing three-quarters of the population. Other important industries include transport, timber, paper products, minerals, natural gas, fish products and chemicals. The country is one of the leading producer natural minerals such as gold, nickel, aluminum and crude oil. Canada has the second-largest oil reserves in the world.
+
+Through immigration Canadian industries employ a lot of foreign-trained skilled and semi-skilled workers. Working and living in Canada as a skilled or semi-skilled worker gives you an opportunity to apply for Canadian permanent residence status. This means you and your family will live and settle in Canada.
+
+Some of the biggest employment sectors in Canada include:
+
+Construction: manual labour and engineering
+With strong growth in the residential and commercial building sectors, as well as engineering works, the construction industry saw an average 3.4 percent annual payroll increase between 2010 and 2015.
+
+Hiring activity has decreased somewhat over the last 18 months, due to slower industrial and commercial building, and less demand for drilling activity. Going forward, however, engineers will be in greater demand thanks to an increase in public infrastructure projects.
+
+Accommodation and food services: restaurant and hotel staff
+[Image: People lining up at a stall at a food market with attendat looking on]
+
+A 2.4 per cent yearly payroll hike is credited to a weak dollar that has prompted more Canadians to vacation at home while drawing in more foreign visitors, thus bolstering tourism. Lower gas prices have also boosted consumer spending, although spending will continue to trend toward self-service versus full-service restaurants.
+
+Professional, scientific and technical services: IT design, accounting, legal and public relations
+These industries saw an average payroll increase of 2.1 per cent, and employment growth remains strong across all categories within this sector.
+
+Health care Personnel: physicians, doctors, Nurses, and home care staff.
+
+Payrolls within this sector have grown 2.1 percent annually, and Canada’s aging population will continue to spur above-average growth going forward.
+
+Sectors such as retail, manufacturing, mining, oil and gas, and agriculture have seen a slight deep in activity of late. Of these, only the mining, oil and gas industry is set to see a rise in hiring next year amid modest commodity price stabilization and export activity.
+
+These same trends are seen among self-employed Canadians, where construction and industry-oriented professions have experienced the most growth.
+
+Infrastructure
+[Image: An arial view of Saskatchewan overlooking a river]
+
+In 2007, the New Building Canada Plan was implemented. This $33 billion, government-funded plan is set aside for public, provincial, territorial and municipal infrastructure. Projects that support job growth, prosperity and productivity are among the top recipients of these much-needed funds.
+
+The plan has been set to reduce commute time for working families, enhance economic productivity and create jobs in Canada. Connecting Canada with the world is a priority for the government, which is why transportation and connectivity projects take precedence.
+
+These industries are hiring and will continue to do so for the foreseeable future.
+
+On the other hand, the Canadian economy is also heavily reliant on exports and international trade. The U.S being Canada’s biggest trading partner.
+
+Canada earned $523.904 billion in 2015 from exports. The primary export goods include motor vehicles and their parts, industrial machinery, plastics, aircraft, telecommunications equipment, chemicals, fertilizers, wood pulp, timber, crude petroleum, natural gas, and aluminum. The main export partners include the US 75.2%, China 4.10%, Japan 1.93%, Mexico 1.51%, India 0.86%, and South Korea 0.81%.
+
+In 1988, Canada enacted free trade with the United States. Mexico became a partner in 1994 in the broader North American Free Trade Agreement (NAFTA), with over 444 million people and over $1 trillion in merchandise trade in 2008.
+
+Importance of NAFTA to the Canadian Economy
+The North American Free Trade Agreement (NAFTA) is a treaty among Canada, the United States and Mexico that eliminated most of the barriers to free trade among the 3 countries.
+
+The agreement means purchasing certain items from NAFTA countries is often cheaper than buying similar goods from non-NAFTA countries. Thanks to NAFTA, enjoying Mexican avocados year-round is easy. Similarly, Canadians can save big by buying an American-manufactured car versus a model from Europe. Goods from NAFTA nations are imported tariff-free, based on NAFTA's rules of origin. These rules state the percentage of the product’s content that must originate in the member country.
+
+NAFTA was the result of 14 months of intensive negotiations in 1991 and 1992. It was ratified by the Canadian, U.S. and Mexican legislatures in 1993, and took effect in January 1994. Before NAFTA, Canada and the U.S had a trade agreement called the Canada-U.S. Free Trade Agreement.
+
+Here are 5 key ways Canadians have benefited from NAFTA:
+
+A wider selection of goods
+Increased trade volume
+Increased foreign direct investment (Canada’s foreign direct investment from the States increased by 243% between 1993 and 2013).
+Freer movement of professionals and investors across the border
+The development of new jobs
+Challenges to the Canadian Economy
+Canada has an over-reliance on natural resources which are unevenly distributed leading to the unequal growth of the regions. The exploitation of natural resources has had an adverse effect on the environment including the decline of cod fish and salmon as well as forest cover.
+
+Overall, here are the 3 main challenges facing the Canadian economy now and in the near future:
+
+Oil Prices
+[Image: A huge oil rig out in the ocean waters]
+
+If lower oil prices, they represent a major threat to the Canadian economy:
+
+Oil exports account for a larger share of GDP in Canada than they do in any other nation in the rich world, with the exception of Norway or the Gulf Arab monarchies. In fact, apart from Canada, Norway, or Denmark, every noteworthy developed economy in the world is actually a net importer of oil. Canada, in contrast, is the world’s 10th largest net exporter of oil, and the world’s 5th largest net exporter of oil outside of the Middle East.
+
+None of Canada’s most important trade partners are likely to be among the main beneficiaries of falling oil prices. Canada has one primary trade partner, which is the United States, and three secondary trade partners: China, Mexico, and Britain. The US accounts for more than half of Canadian trade, while China, Mexico, and Britain combined account for close to 20 percent of Canadian trade.
+
+None of these four countries, however, are significant importers of oil, or of energy in general.
+
+Other Commodities
+The price of oil is often correlated with the price of commodities in general, since bulk commodities tend to require a lot of energy to produce and a lot of fuel to transport. This presents an additional risk for Canada, given that Canada is not only a massive exporter of oil, but also of many other commodities.
+
+Commodities other than oil account for an estimated 20-30 percent of all Canadian exports. Most of Canada’s most important non-oil commodities have prices that tend to correlate at least somewhat with oil prices. These include not only natural gas and coal, but also industrially used metals like nickel, copper, and iron ore, as well as nonmetal commodities like potash (used for fertilizer) and timber (which in Europe accounts for half of all energy produced from “renewables”), both of which Canada is the world’s largest exporter of. Canada is also the world’s third-largest net exporter of electricity, trailing only France and Paraguay, and the world’s largest uranium producer apart from Kazakhstan.
+
+China
+The relationship between Canada and China is based around more than just exports of Canadian natural resources to China and imports of Chinese manufactured goods to Canada. British Columbia in particular has a close economic relationship with China, the result of Vancouver’s (and Victoria’s) Pacific coastline and physical isolation from most of the rest of the Canadian and North American markets.
+
+British Columbia sends approximately 35 percent of its overseas exports to China, which is almost twice the share that the rest of Canada does, and 2.5 times the share that the United States does.
+
+Partly as a result of this British Columbian transpacific relationship, Canadian exports to China are equal to roughly 2.5 percent of Canada’s GDP, whereas US exports to China are equal to only 1.3 of the US’s GDP. In addition, there are social and financial ties between Canada and China that are economically significant, albeit difficult to measure precisely, reflecting the fact that roughly 11 percent of British Columbia’s population and 5 percent of Canada’s total population are of Chinese origin — compared to just 1.2 percent for the US’s population, 0.3 percent for the European Union’s population, and 4 percent for Australia’s population.
+
+All of this is to say that Canada will feel the effects of an economic slowdown in China, and not only because of the effect such a slowdown would have (and has already been having) on commodity prices. Canada's economy could be particularly affected by a crisis in southeastern China, if one were to occur since because of the historical connection between Canada and Britain, most of the Chinese immigrants in Canada have come from Hong Kong and adjacent parts of southeastern China (and spoke southeastern Chinese languages like Cantonese, even though Cantonese is only spoken by approximately 60 million people within China, compared to nearly a billion Mandarin speakers).
+Ten incisive social issues in Canada today
+[Image: Ten incisive social issues in Canada today]
+
+Canadians are perceived globally as polite, friendly, educated, and eloquent. Canada seems like a perfect place to visit and live. Which it is – but like everywhere, there are still social problems in Canada today that need addressing for a better tomorrow.
+
+Current social issues in Canada include:
+hide
+Mental health issues
+Controversial abortion laws
+Freedom of speech
+Gambling Addiction Issues in Canada
+Violence against women
+Prostitution
+Social policy decisions for drugs and alcohol
+Racial discrimination and the problem of the first nations
+Issues regarding the possession of weapons
+The creeping problem of pension benefits
+This list of current social issues in Canada reads like many nations. How Canadians are tackling these issues often contrasts sharply with their Southern neighbours.
+
+Mental health issues
+[Image: Mental health issues]
+
+Even in 2021, despite being one of the most progressive nations on earth, mental health is still stigmatized. It remains one of the top social problems in Canada. Currently, one in every five Canadians is affected each year by mental illness. The most commonly diagnosed illnesses are:
+
+Depression
+Substance abuse disorder or addiction
+Bipolar disorder
+Eating disorders
+Anxiety disorders
+PTSD
+Schizophrenia
+[Image: CMHA]
+
+Great work is being done, according to CMHA. But mental illness is still not met with the resources and funding that is allocated to physical illness. Stigma and discrimination still surround the issue of mental health. In particular, addiction counselling, psychologists, and social workers are still needed.
+
+That means almost seven million Canadians have a diagnosis. But with many not seeking a diagnosis, the figure is projected to be one in four or around nine million sufferers.
+
+Preventative measures could save people seeking treatment when the illness has progressed. Arguably the services provided would pay for themselves. Since it’s estimated that $50 billion is lost annually through unemployment and absenteeism, as well as workers are struggling to cope at work.
+
+Controversial abortion laws
+[Image: Controversial abortion laws]
+
+Many Western countries have settled their debate on abortion. But in Canada, abortion continues to be one of their most controversial social issues. Those making social policy decisions in government are quietly pro-abortion.
+
+However, an enormous 40% of the Canadian population identifies as Catholic. So, abortion is unsurprisingly one of the most contentious social issues. Not least, since late abortions are legally allowed for any reason.
+
+The Morgentaler ruling of 1988 is Canada’s Roe vs. Wade in many respects. The difference being American pro-choice supporters face an uncertain time currently. Yet, the Morgentaler ruling does not look likely to be challenged soon. In a recent poll, Canadians were almost split in their position towards abortion.
+
+Most Canadians realize that abortion is a deeply personal and often passionate issue. Thus to bring it up in conversation is to start an argument, and so it is rarely discussed in polite society.
+
+Freedom of speech
+In Canada, freedom of speech is one of the hotly debated current social issues. Canadians place high regard on their right to free expression. This duly is set out in the Canadian Charter of Rights and Freedoms. It was brought to worldwide attention recently.
+
+Famed psychologist and philosopher Jordan Peterson refused to comply with the proposed C-16 bill. The legislation is aimed at protecting the rights of the LGBTQ community. It also stipulates that others must address a transgender person by a particular pronoun of their choice.
+
+[Image: Freedom of speech]
+
+The Toronto professor ignited the tensions and complexities of contemporary society. And his refusal to address a transgender person with their chosen pronoun. Peterson claimed that the bill was a violation of free speech on which Western civilization was built. Mr. Peterson faced no charges for falling foul of the Ontario Human Rights Code. Legal experts argued his refusal to use chosen pronouns was not sufficient to meet the grounds of hate speech.
+
+Gambling Addiction Issues in Canada
+Gambling and casinos have become commonplace in Canada since it was legalized in 1969. Slot machines, video lottery terminals, sports bookies, animal racing, and casinos are prevalent.
+
+And allow Canadians to try their luck in a fair and legal game of chance. While popular with many, there are plenty of Canadians who would never buy a lottery ticket.
+
+[Image: Gambling and casinos]
+
+They consider the pastime to be low class. And those who cannot plan and “make their luck in life“ through hard work and smarts. They may have a point, as the thrill of gambling is addictive.
+
+It’s now one of the current social issues in Canada being tackled. In particular, with the increase of online gambling, the activity has now become problematic. Support groups are now springing up to help those addicted. And even rehab is required to treat those who are severely affected. Fortunately, large Canadian online casinos, such as the well-known Casinovalley.ca, are aware of their responsibility and provide their players with the Canadian Gambling Addiction Help Guide.
+
+Family violence
+Family violence is one of the most complex issues facing families and communities in Canada, and its consequences can be far-reaching. Statistics on this violence in Canada are on an upward trend, mainly due to increased crimes against children and youth. Since 2016, these statistics have begun to rise again, until 2019.
+
+Prior to that, the rate declined by nearly 19% between 2009 and 2016. Similarly, a global pandemic has been cited as one of the problems.
+
+[Image: Family violence infographic in Canada]
+
+However, between March and October 2020, the number of some criminal incidents dropped again. At the same time, threats against family members increased by 2%.
+Police reports describe trends in family violence, including rates of spousal violence against women and the elderly, and in some cases, men.
+
+Violence against women
+Violence against women remains one of the current social issues in Canada.
+
+Approximately 25% of violent crime reported to Canadian police is family abuse.
+
+The Canadian Women’s Foundation estimates that over 6,000 women and children sleep in shelters every night, while a further 300 are turned away. First nation Canadians are around six times more likely to be killed by their partner than non-indigenous Canadian women. And one Canadian woman is killed every six days by an intimate partner.
+
+[Image: Violence against women]
+
+These statistics highlight a social issue in Canada that is still a major concern. The CWF says even more work needs to be done. Examples of such action to improve this social issue include early intervention of reporting crime. Attitudes towards women and available support services also need to improve.
+
+Prostitution
+[Image: Prostitution]
+
+The selling of sex is often considered to be the first trade. But as in Canada and with other nations, it is one of the social problems that is deemed to be taboo. The selling of sex is highly stigmatized in Canada. And it is considered the domain of the impoverished and drug addicts. Sex workers are often abused by pimps, physically and economically, despite this being illegal.
+
+Charitable groups in Canada have stepped in to help some of these sex workers escape their social problems. But many view the “improvement” of conditions for sex workers as a move towards normalizing an offensive trade.
+
+Social policy decisions for drugs and alcohol
+[Image: Social policy decisions for drugs and alcohol]
+
+Drugs and alcohol are a part of virtually every society. Like other nations, in Canada, legislators have grappled with one of the most challenging social issues there is. In twentieth-century Canada, prohibition was used to tackle this most contentious of social problems.
+
+Most drinkers not native to Canada would likely be baffled and annoyed by the restrictions on the sale of alcohol.
+
+Conversely, marijuana possession has been legal since 2018.
+
+[Image: Hemp leaves]
+
+Visiting smokers to Canada would be impressed and delighted by the pot shops, which can be found in urban areas.
+
+Despite today’s opioid crisis, the government is not eager to crack down on unlicensed sources of marijuana sales. So during 2020, more than 1,500 people died of overdoses.
+
+The reason for this may well be that only about 30% of Canadians who use marijuana buy it from legal stores. The rest, however, prefer both legal and unlicensed establishments.
+
+Racial discrimination and the problem of the first nations
+Racial discrimination against the first nations has been one of the ongoing social issues faced by generations in Canada. The indigenous population is still facing social and economic problems in Canada.
+
+At the same time, other Canadians and immigrants prosper. When it comes to social issues, the first nations population of Canada suffers high rates of social problems. These include incarceration, poverty, unemployment, suicide, addiction, and health issues.
+
+The rights of indigenous people and the desires of the industries such as oil are often in stark conflict. Many of these problems are rooted in racism and discrimination owing to current high levels of poverty. While the government may have accepted responsibility for injustices, the issue remains.
+
+Issues regarding the possession of weapons
+[Image: Issues regarding the possession of weapons]
+
+Similarly to the US, in Canada, hunting is popular, but the possession of firearms is one of their most divisive social issues. Owning a gun is far less sport, and more so a necessity, with bear attacks still possible in rural areas. Conversely, as much as a weapon is a defence against wild animals, gun massacres are still prevalent in Canada.
+
+In 2018, ten people were killed in the Toronto van attack; a further two killings happened later in the year. Four shootings were recorded in 2019, which bolsters the argument of those against gun ownership.
+
+More recently, on May 29, 2021, a man was shot and killed. According to the police press service, it all happened in Montreal, and he was 22 years old. Also, law enforcement officials confirmed to reporters that this is the 10th murder since the beginning of 2021.
+
+Prohibition on possession of weapons
+Around seven million Canadians own guns and are recreational hunters.
+
+But typical city-dwelling Canadians disapprove of guns. They point to gang violence and massacres as the reasons for the outlawing of gun ownership in the nation.
+
+[Image: Assault rifle in the hands of a military man]
+
+So, as of May 1, 2020, Prime Minister Justin Trudeau confirmed that a ban on the possession of assault weapons would be enforced. More than a thousand weapon types have been added to the list. However, despite this law, the number of murders with firearms has not decreased significantly.
+
+Canada does have rigorous checks in place for gun licenses and ownership. Unlike the US, automatic and semi-automatic guns are banned. So, when an unfortunate massacre occurs in Canada, the numbers murdered are usually in single digits.
+
+Poverty in Canada
+In Canada, there are nearly five million people living in poverty, and it can affect anyone. Poverty affects people of all ages, economic backgrounds, and nationalities. Poverty is a complex issue related to unemployment, return rates on investments, sub-standard housing, health policy, and education.
+
+Despite Canada’s reputation as a prosperous nation, millions of Canadians are still struggling to meet their basic needs. In order for people to get out of poverty, they need help from others and government support. Poverty costs us all because it results in high-stress levels, poor health outcomes, social exclusion and lower educational achievement. People’s potential is often limited in these ways.
+
+[Image: Poverty statistic in Canada]
+
+Here are some statistics to date:
+
+4.9 million are below the poverty line.
+1.7 million or almost 5% of the total Canadian population, live in deep poverty.
+Job insecurity has increased by 50% in the last 20 years.
+Even though the population has increased by a third in the last 25 years, investment in housing has declined.
+The creeping problem of pension benefits
+[Image: The creeping problem of pension benefits]
+
+The ageing population means that pension benefits are another of the major social issues affecting those in Canada today. In the past, those contributing to pensions and those receiving the benefit resembled a triangle.
+
+The base of the triangle represents a steady source of contributors and those accessing pensions being far fewer. Now, the triangle is upended.
+
+Many younger people are not contributing as they are part of the freelance “gig” economy. And those relying on the benefit are living for decades past the age of sixty-five. The math simply doesn’t add up when the population relies on state income for a period almost as long, if not longer, than the time spent contributing.
+
+Canadians face the same uphill struggle as other nations to try and meet the demands of an ageing population. The pension system in Canada allows for nationals and non-nationals who have resided in the country for more than ten years to receive a pension.
+
+The amount allocated is dependent on the amount paid into the fund; the minimum amount is less than $740 and the maximum amount around $1200 as of 2021. This amount would leave many in relative poverty. The minimum amount is around $100 more than the maximum unemployment paid.
+
+In Canada, politicians, strategists, and economists are looking for solutions for what is one of the major social problems of our time.
+
+Hey! Follow the news:
+Tweets by RSCTheAcademies
+Our latest articles
+Facebook launches messenger for kids amidst criticisms by experts
+How Canada Can Fix Its Social Concerns
+Canadian Social Organizations
+Community-powered voices
+Privacy Policy
+Copyright © 2022 C2D2. All Rights Reserved.
+Canada’s economy grew 3.1% in the first quarter, slower than expected
+By Staff The Canadian Press
+Posted May 31, 2022 9:14 am
+Updated May 31, 2022 12:24 pm
+[Image: Click to play video: 'Canadian economy to grow by 4.25 per cent in 2022: Bank of Canada']
+
+0:54 Canadian economy to grow by 4.25 per cent in 2022: Bank of Canada
+Bank of Canada Governor Tiff Macklem said the bank forecasts the Canadian economy will grow 4.25 per cent this year before moderating to 3.25 per cent next year, based on major spending and investment components, and improved labour productivity. – Apr 13, 2022
+comments
+facebook Share this item on Facebook
+whatsapp Share this item via WhatsApp
+twitter Share this item on Twitter
+email Send this page to someone via email
+more
+more
+Share this item on Facebook facebook
+Share this item via WhatsApp whatsapp
+Share this item on Twitter twitter
+Send this page to someone via email email
+Share this item on Pinterest pinterest
+Share this item on Reddit reddit
+The economy grew at an annualized rate of 3.1 per cent in the first quarter, helped by business investment and household spending, Statistics Canada said Tuesday.
+
+The result was down from an annualized rate of 6.6 per cent in the fourth quarter of 2021.
+
+Statistics Canada said the change came as export volumes dropped 2.4 per cent for the quarter, following two consecutive quarterly increases.
+
+Paul Ashworth, chief North American economist at Capital Economics, said the growth for the first three months of the year was well below the consensus estimate, but broadly in line with the Bank of Canada’s April monetary policy report.
+
+Read more: Canadians may see a 0.5% interest rate hike this week thanks to ‘persistent’ inflation
+
+
+
+Story continues below advertisement
+“The unexpected weakness in first-quarter GDP growth was principally due to a downward revision to the January data, which now shows a 0.2 per cent month over month decline, as the Omicron-related restrictions had a bigger impact than previously thought,” Ashworth wrote in a report.
+
+However, he said the real economy remains on a strong footing, which means the Bank of Canada can press ahead with raising its key interest rate by half a percentage point on Wednesday.
+
+Statistics Canada said household spending rose 0.8 per cent in the first quarter, to mark a third consecutive quarterly increase.
+
+Spending on durable goods gained 2.6 per cent in the first quarter, helped by a 16.1 per cent increase in spending on new passenger cars and a 3.5 per cent gain for new trucks, vans and sport utility vehicles.
+
+Trending Stories
+Ramsay Hunt syndrome: Here’s what we know about Justin Bieber’s diagnosis
+Airbnb host arrested after alleged knife attack on two female guests at Vancouver rental
+[Image: Click to play video: 'Pitch to fire Bank of Canada governor ‘oversimplifies’ inflation: Page']
+
+7:27 Pitch to fire Bank of Canada governor ‘oversimplifies’ inflation: Page
+Pitch to fire Bank of Canada governor ‘oversimplifies’ inflation: Page – May 15, 2022
+However, Statistics Canada noted that despite the increases, spending on automobiles remained lower than pre-pandemic levels, as supply chain issues continued to hurt the auto sector.
+
+Story continues below advertisement
+Residential construction gained 4.3 per cent as spending on renovations rose 9.3 per cent, resale costs gained 4.6 per cent and new construction rose 0.2 per cent.
+
+Business investment in non-residential structures rose 2.9 per cent and in machinery and equipment gained 0.9 per cent in the quarter, while spending on engineering structures rose 3.5 per cent.
+
+Statistics Canada also said compensation of employees rose 3.8 per cent on a nominal basis for the quarter. Excluding the third quarter of 2020, it said it was the largest quarterly increase since the second quarter of 1981.
+
+Read more: Concerns over global financial crisis grow at World Economic Forum meeting in Davos
+
+The agency said significant wage growth was seen across the economy, including in professional and personal services, trade, manufacturing, health care and social assistance and construction industries.
+
+The overall growth for the first quarter came as the economy grew 0.7 per cent in March.
+
+Statistics Canada said its preliminary reading for April indicates the economy grew 0.2 per cent for the month, but cautioned the figure would be revised when it releases its official figure on June 30.
+
+The reading on the economy comes ahead of the Bank of Canada interest rate announcement on Wednesday.
+
+Story continues below advertisement
+The central bank is expected by economists to raise its key interest rate target by half a percentage point to 1.5 per cent in an effort to slow inflation.
+
+In its April monetary policy report, the Bank of Canada had forecast an annualized growth rate of 3.0 per cent for the first quarter.
+
+© 2022 The Canadian Press
+JOURNALISTIC STANDARDS REPORT AN ERROR
+Canadian Economy tagStatCan tagcovid economy tagCanada GDP tagStatistics Canada GDP tagcovid canada economy taggdp statcan tag
+Sponsored content
+More from Global News
+Feds to lift COVID-19 vaccination requirement to board flights, trains: source
+5 killed and 22 injured by Ukrainian artillery in Donetsk, pro-Russia separatists say
+Advertisement
+[Image: national skyline]
+
+[Image: national skyline]
+
+Stay in the loop
+Get a roundup of the most important and intriguing national stories delivered to your inbox every weekday.
+
+Sign up for National newsletter
+Trending
+Airbnb host arrested after alleged knife attack on two female guests at Vancouver rental
+4494 Read
+Travel industry calls for removal of vaccine mandate and other COVID restrictions
+1122 Read
+Amber Heard speaks out about Johnny Depp verdict, says trial was not ‘fair’
+971 Read
+Passport renewal wait times now online as Ottawa looks to address long lineups
+785 Read
+Ramsay Hunt syndrome: Here’s what we know about Justin Bieber’s diagnosis
+712 Read
+Google suspends engineer after claims that AI system has become sentient
+600 Read
+Top Videos
+Airbnb host arrested after alleged knife attack on two female guests at Vancouver rental
+2847 Viewed
+Calgary declares precautionary state of local emergency amid possible flooding concerns
+1587 Viewed
+Amada Todd trial hears from Dutch police officer
+715 Viewed
+Critics argue Ottawa should lift all airport COVID-19 measures
+694 Viewed
+Suspended Google engineer claims company’s AI system is sentient
+686 Viewed
+What is Ramsay Hunt syndrome, which caused Justin Bieber’s facial paralysis?
+654 Viewed
+More Videos
+[Image: national skyline]
+
+[Image: national skyline]
+
+Stay in the loop
+Get a roundup of the most important and intriguing national stories delivered to your inbox every weekday.
+
+Sign up for National newsletter
+Advertisement
+Flyers
+More weekly flyers
+[Image: Global News Home]
+
+Global News Facebook Pages Global News Twitter Accounts Global News Youtube Channel Global News on Instagram Global News on Linked-In Global News on Pinterest Global News RSS Feeds
+About
+Principles & Practices
+Branded Content
+Contact us
+RSS
+Newsletters
+Notifications
+Smart home
+Advertisers Election Registry
+©2022 Global News, a division of Corus Entertainment Inc. Corus News. All rights reserved. Powered by WordPress VIP
+[Image: Corus Entertainment Home]
+
+Privacy Policy
+Copyright
+Terms of Use
+Advertise
+Advertising Standards Terms
+Corus Entertainment
+Advertisement

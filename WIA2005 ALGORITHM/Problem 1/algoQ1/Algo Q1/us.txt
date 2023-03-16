@@ -1,0 +1,575 @@
+in this section
+national transportation statistics
+nts datasets
+previous editions
+state transportation statistics
+county transportation statistics
+social and economic characteristics of the united states
+embedded dataset excel
+
+dataset excel
+key  na not applicable; r revised; u data are not available
+
+a estimates are as of july 1 for each year the numbers for each sub-category in each year may not add up to the total population due to rounding
+
+b new metropolitan area definitions were published by the office of management and budget omb in 2003 these definitions were applied to population data by the census bureau beginning with the data from the 2000 census a new term core based statistical areas cbsas collectively refers to metropolitan and micropolitan statistical areas a metropolitan statistical area is defined as having at least one urbanized area of 50000 or more inhabitants a micropolitan statistical area is defined as having at least one urban cluster of more than 10000 but less than 50000 inhabitants all geographic boundaries for the july 1 2009 population estimates series are defined as of january 1 2009  the office of management and budget's statistical area definitions for metropolitan and micropolitan statistical areas as well as metropolitan divisions are those issued by that agency in november 2008 the estimates for 2010-12 are based on the 2010 census and reflect changes to the april 1 2010 population due to the count question resolution program and geographic program revisions  the office of management and budget's statistical area delineations for metropolitan and micropolitan statistical areas as well as metropolitan divisions are those issued by that agency in february 2013 
+
+c numbers prior to 1999 are estimated to the nearest million
+
+d as of april 1 of year indicated the census bureau only tabulates urban rural numbers for the decennial census years
+
+e fiscal year ending september 30
+
+f the census bureau calculates square mileage comprising land and water area for the decennial census years  data for 1980 comprises land and inland water  data for 1990 comprises land great lakes inland water and coastal water  data for 2000 comprises land great lakes inland water territorial water and coastal water  
+
+g sums of chained-dollar estimates for individual industries do not add to national totals because the chain-type indices used to derive them are based on weights of more than one period  
+
+h converted to constant 2012 dollars by the bureau of transportation statistics using the cpi-u-rs price index
+
+source
+
+us resident population age sex region
+
+1980-2009 us census bureau population division population estimates as of nov 2 2015
+
+2010-20 us census bureau population division national population by characteristics available at of aug 23 2021
+
+us metropolitan areas micropolitan areas
+
+1980-2009 us census bureau population division population estimates as of nov 2 2015
+
+2010-19 us census bureau population division metropolitan and micropolitan statistical area datasets available at as of jun 3 2020
+
+rural urban
+
+1980-90 us census bureau statistical abstract of the united states 2000 washington dc 2001 table 37
+
+2000 us census bureau urban and rural total population p2 as of sept 25 2019
+
+2010-2019 us census bureau american community survey table dp05 1-year estimates profiles available at https//datacensusgovas of aug 27 2021
+
+regions
+
+1980-2009 us census bureau population division population estimates as of nov 2 2015
+
+2010-20 us census bureau population division annual estimates of the resident population available at https//wwwcensusgov/programs-surveys/popest/data/data-setshtml as of aug 27 2021
+
+immigrants
+
+us department of homeland security us citizenship and immigration services yearbook of immigration statistics washington dc annual issues table 1 available at https//wwwdhsgov/immigration-statistics/yearbook as of aug 23 2021
+
+total area
+
+1980-2010 us census bureau statistical abstract of the united states section 1 table 1 available at  https//wwwcensusgov/library/publications/time-series/statistical_abstractshtml as of dec 20 2017
+
+2018-19 us census bureau united states profiles available at https//datacensusgov/cedscias of aug 27 2021
+
+gross domestic product government and private industry
+
+1980-96 us department of commerce bureau of economic analysis national economic accounts national income and product accounts table table 116 available at http//wwwbeagov/national/indexhtm as of oct 8 2019
+
+1997-2020 us department of commerce bureau of economic analysis industry economic accounts gross-domestic-product-by-industry accounts real value added by industry available at http//wwwbeagov/industry/indexhtm as of aug 27 2021
+
+civilian labor force
+
+us department of labor bureau of labor statistics current population survey employment status of the civilian noninstitutional population 16 years and over by sex household data table 2 available at http//wwwblsgov/cps/tableshtm#empstat as of aug 23 2021
+
+number of households and average size of households
+
+us department of commerce bureau of the census current population survey table hh-6 average population per household and family 1940 to present available at https//wwwcensusgov/data/tables/time-series/demo/families/householdshtml as of aug 23 2021
+
+mean and median household income
+
+us department of commerce bureau of the census current population survey historical income tables table h-6 regions--all races by median and mean income available at https//wwwcensusgov/data/tables/time-series/demo/income-poverty/historical-income-householdshtml as of sept 17 2021
+
+average household expenditures
+
+us department of labor bureau of labor statistics consumer expenditure survey average annual expenditures all consumer units available at http//wwwblsgov/cexas of aug 27 2021
+
+publications
+national transportation statistics table social and economic characteristics of the united states
+us department of transportation
+US Economic Development
+US state and local economic development
+States, counties, and cities across the United States are reimagining their economic futures. Leaders are striving to build stronger, more equitable, and more resilient economies in the face of diverse and unprecedented challenges—including the lasting effects of the pandemic and the acceleration of technological change.
+
+This moment presents state and local leaders—and their business and civic partners—with immense opportunity but also poses significant strategic and operational hurdles. How can leaders design strategic programs to help them accomplish their desired goals—whether securing the right skills and talent, fueling productivity and innovation, building vibrant places and communities, or ensuring an inclusive and sustainable future? How can state and local organizations collaborate to achieve target outcomes, measure success, and bring lasting change?
+
+For more than 50 years, we have worked side-by-side with public, private, and social sector leaders across the country on economic development and recovery efforts. Among the many important lessons from this work is that inclusion and growth, or sustainability and growth, are not conflicting goals. In fact, insufficient economic inclusion and environmentally unsustainable approaches are threats to prosperity—and therefore these goals are best pursued in tandem.
+
+The following knowledge collection represents this experience and understanding, as well as independent research on what works, including the latest economic analyses from our internal think tank, the McKinsey Global Institute; a range of capabilities and action-oriented tools that we have developed to help state and local leaders tackle critical economic development challenges; and our deep expertise in managing and delivering on outcomes. Taken together, these insights can help state and local leaders and their business and civic partners to lay the foundation for healthy, and equitable, economies.
+
+Topics to explore Productivity and Innovation | Skills and Talent | Vibrant and Sustainable Communities | Equitable and Inclusive Futures | How to Deliver
+Productivity and Innovation
+Report - McKinsey Global Institute Will productivity and growth return after the COVID-19 crisis?
+March 30, 2021 – Bold innovation by some firms under pressure of the pandemic could deliver a productivity dividend, but that depends on corporate action broadening and robust demand.
+Article Lessons from the past on how to revive the US economy after COVID-19
+June 18, 2020 – Examining what worked in response to previous crises can help policy makers as they make plans to revive economic activity.
+Skills and Talent
+Podcast - McKinsey Global Institute Forward Thinking on unemployment with Sir Christopher Pissarides
+May 12, 2021 – The Nobel Prize–winning economist talks job loss and creation after the pandemic, plus what economic researchers should be addressing today.
+Podcast Creating a postpandemic recovery for women in the workplace
+March 8, 2021 – COVID-19 has pushed working women to the point where many have dropped out. Here’s how companies can help.
+Report - McKinsey Global Institute The future of work after COVID-19
+February 18, 2021 – The pandemic accelerated existing trends in remote work, e-commerce, and automation, with up to 25 percent more workers than previously estimated potentially needing to switch occupations.
+Report - McKinsey Global Institute The future of work in America: People and places, today and tomorrow
+July 11, 2019 – The health of local economies today will affect their ability to adapt and thrive in the automation age.
+Report - McKinsey Global Institute The future of women at work: Transitions in the age of automation
+June 4, 2019 – Concerted and creative new solutions are needed to enable women to seize new opportunities in the automation age; without them, women may fall further behind in the world of work.
+Article Creating an effective workforce system for the new economy
+July 3, 2018 – Governments have an important role to play in building a deeper pool of qualified workers and fueling economic growth.
+Vibrant and Sustainable Communities
+Report How cities can adapt to climate change
+July 20, 2021 – Research identifies 15 proven ways that urban areas around the world can adapt to climate risk.
+Article Rural rising: Economic development strategies for America’s heartland
+March 30, 2022 – There is no one-size-fits-all economic development strategy for rural communities. How can local leaders—including governments, businesses, and individuals—put rural regions on track to thrive?
+Article Preserving the largest and most at-risk supply of affordable housing
+February 23, 2021 – In the United States, naturally occurring affordable housing (NOAH) is at risk. To protect this critical asset class, stakeholders for federal, state, and local housing can all play a role.
+Article Selecting infrastructure projects for the next normal
+January 20, 2021 – Infrastructure projects can create jobs and spur economic growth—both critical as the world reckons with the fallout from COVID-19. But budgets are tight, so which projects should be prioritized?
+Equitable and Inclusive Futures
+Report - McKinsey Global Institute The economic state of Black America: What is and what could be
+June 17, 2021 – Closing racial gaps across the economy is not only about righting historic wrongs. It is also about choosing a more dynamic future and realizing the full potential of a massively underutilized source of talent, to the benefit of all Americans.
+Report The case for inclusive growth
+April 28, 2021 – US leaders across sectors have an opportunity to improve economic performance—and bolster individual and community well-being—through investments that embed equity into the development process.
+Podcast Investing in Black economic mobility
+February 22, 2021 – Racial equity and inclusive growth can drive economic mobility and a postpandemic recovery.
+Article America 2021: The opportunity to advance racial equity
+February 17, 2021 – To America’s leaders, innovators, and changemakers: the task of building a more perfect society needs your help.
+Article Achieving an inclusive US economic recovery
+February 3, 2021 – COVID-19 has most affected workers who were already vulnerable. Unless bold action is taken, the postpandemic recovery will further exacerbate inequality.
+Article Building supportive ecosystems for Black-owned US businesses
+October 29, 2020 – The right business ecosystems can mitigate or negate the effects of structural obstacles to business building for Black business owners—and add $290 billion in business equity.
+Article COVID-19: Investing in Black lives and livelihoods
+April 14, 2020 – The unfolding public-health and possible economic disaster of the pandemic will disproportionately affect Black Americans—unless stakeholders respond immediately.
+How to Deliver
+Article How economic-development organizations can seize funding opportunities
+May 19, 2022 – By harnessing funds from the American Rescue Plan Act, economic-development organizations have an opportunity to effect significant change in their communities—if they can organize themselves first.
+Podcast Creating a more resilient and responsive government
+March 16, 2021 – The pandemic has put demands on the public sector that are likely to increase.
+Article - McKinsey Global Institute COVID-19: Making the case for robust digital financial infrastructure
+January 26, 2021 – The pandemic has been a tough, real-life stress test for government disbursement schemes, highlighting opportunities but also gaps and vulnerabilities.
+Article Rethinking resilience: Ten priorities for governments
+November 30, 2020 – Due to the pandemic, governments are under increased pressure to act quickly and at scale. By reimagining how they work, they can create resilient societies and public services for the next normal.
+Article Using a crisis nerve center to help reopen the economy
+May 29, 2020 – To manage the next phase of responses to the COVID-19 pandemic, government leaders can consider the skills needed to lead and contribute to the effort.
+Additional Insight
+Article Reimagining the postpandemic economic future
+August 14, 2020 – As the COVID-19 crisis continues to devastate US lives and livelihoods, policy makers are challenged to emerge from it in a way that lays a foundation for a strong, healthy economy in the long run.
+Featured Experts
+Wan-Lae Cheng Partner, Washington DC
+Supports private-, public-, and social-sector organizations, including – educational institutions, state and local governments,...
+John-Paul (JP) Julien Associate Partner, Philadelphia
+Serves US federal, state and city governments on inclusive economic-development topics and supports private-, public-, and social-sector...
+Mike Kerlin Partner, Philadelphia
+Leads McKinsey’s work in infrastructure finance globally and in North America. Works with investors—including infrastructure private...
+Jonathan Law Senior Partner
+Supports education organizations and state, provincial, and local governments design and implement major initiatives that advance...
+Shannon Peloquin Partner, Bay Area
+Supports major utilities, transportation, and infrastructure organizations to enhance long-term strategy and investments, operations,...
+Duwain Pinder Partner, New Jersey
+Serves colleges and universities on strategy and performance improvements and supports organizations across sectors on racial...
+Saurabh Sanghvi Partner, Bay Area - Silicon Valley
+Partners with public, private, and not-for-profit organizations around the world to set bold strategies and execute plans that...
+Shelley Stewart III Partner, New Jersey
+Helps companies accelerate growth and design new go-to-market models in the private equity, advanced industries, and technology...
+Sarah Tucker-Ray Partner, Washington DC
+Helps government leaders deliver better outcomes for the public, including improved operations, enhanced customer experience,...
+Connect with our Public & Social Sector Practice
+Contact Us
+Sign up for emails on new {PRACTICE_NAME} articles
+Never miss an insight. We'll email you when new articles are published on this topic.
+
+Something went wrong. Please try again later.
+Subscribed to {PRACTICE_NAME} email alerts.
+Tackling coronavirus (COVID-19)
+Policy responses
+From pandemic to recovery: Local employment and economic development
+[Image: oecd]
+
+[Image: tackling coronavirus (covid-19)]
+
+Open PDF
+OECD Policy Responses to Coronavirus (COVID-19)
+From pandemic to recovery: Local employment and economic development
+Updated 27 April 2020
+Introduction: Local responses matter for short-term and long-term impacts
+Job losses will hit some communities harder than others
+Some of the hardest hit local economies may struggle for years to come
+Local actions are an essential part of the recovery, from helping the disadvantaged to supporting firms or mobilising the social economy
+The COVID-19 crisis will accelerate change for local development
+Annex A. What economic sectors face the highest risk?
+Notes
+Abstract
+This note provides evidence on the importance of local action to help address the short-term and long-term consequences of the coronavirus (COVID-19) outbreak. It estimates that the share of jobs potentially at risk during confinement ranges from 15% to 35% across regions within 30 OECD and 4 non-OECD European countries. It explains why the local role is essential for the recovery, and explores the potential game changing nature of this outbreak for local development going forward.
+
+The note has been prepared by the OECD Centre for Entrepreneurship, SMEs, Regions and Cities (CFE) to support discussions of the Local Economic and Employment Development (LEED) Programme. Since 1982, the LEED Programme has promoted an integrated approach to local employment and economic development that brings together government at all levels, the social economy, civil society, and the private sector (including SMEs and entrepreneurs).
+
+[Image: Twitter]
+
+[Image: Facebook]
+
+[Image: LinkedIn]
+
+Introduction: Local responses matter for short-term and long-term impacts
+While considered necessary for reducing the risk of spreading COVID-19, the confinement measures are putting unprecedented pressure on local labour markets and economies. In the short term, unemployment is already skyrocketing, and the OECD estimates that the lockdowns could result in a direct initial reduction of 20-25% of GDP in a number of OECD countries during the confinement period.1 The longer-term impacts will depend on the length of lockdowns, other regulations regarding social distancing, the scale of indirect impacts such as drops in consumer spending, and the effectiveness of the policy responses. A recession cannot be avoided, implying further knock-on effects for employment beyond the directly impacted sectors. The employment impacts are already exceeding initial estimates and are on track to dwarf those of the 2008 financial crisis.
+
+Within countries, some places are more exposed to these risks than others are. New estimates show that one out of five OECD/EU regions2 have at least 30% of their jobs potentially at risk in the short term as a result of containment measures. These illustrative estimates do not take into account the seasonality of economic activities (e.g., tourism) and are based on assumptions of full shutdowns in all places.3 Large cities, tourist destinations, intensive energy producing regions and places more connected to trade will be among the most affected in the short term. Experiences with previous recessions and other shocks suggest that – maybe with the exception of the largest cities – the most affected local economies will not be able to bounce back quickly. Local labour markets could suffer for years to come, exacerbating regional disparities in unemployment, economic inactivity and job quality.
+
+Local and regional governments are taking important short-term actions to help sustain the vitality of local communities today and tomorrow. They are helping with the sanitary response, including confinement and awareness-raising activities, delivering health care, and supporting vulnerable groups.4 They are also playing an important role in implementing and providing complementary responses to the national plans for unemployment insurance and income supports5 as well as special support packages and wage subsides, particularly to preserve SMEs and the jobs they provide.6 Examples of such local and regional employment actions include: helping workers and firms navigate national programmes; providing direct financial assistance (to firms and social protection to vulnerable workers); job posting and matching to address immediate hiring needs related to essential services; and offering access to skills development programmes to facilitate training and adjustment. They are also equipping firms, schools, teachers and students with materials for distance learning and teleworking in many countries.7
+
+While national governments have significant work ahead, local and regional governments will be on the frontlines for the long-term local economic recovery. They are well placed to address the differential and long-term implications of firm closures and job losses in different local labour markets. They will be working with their local SMEs that depend to a greater extent than larger firms will on the quality of the local labour market and environment. They will be serving the most disadvantaged populations, given the need for greater proximity in addressing their multiple needs — along with local social economy organisations. They can build bridges between employment, skills and economic development policies.
+
+The key challenge for local and regional actors will be to take into account the changes brought by the COVID-19 crisis to construct the communities of a new tomorrow. The COVID-19 pandemic could change the game for local development in many communities, and for many workers and firms it already has. The consequences may accelerate major trends already underway, such as automation and the digital transition, while slowing down others, such as globalisation. It could also give new impetus for societies to tackle collective challenges, such as climate change — albeit there will be strong pressure to simply create any job — or to capitalise on the renewed social consciousness through a stronger social economy. Regional and local governments are not equally equipped to respond, depending on their official policy competencies as well as their financial and technical capacity, which will be under great pressure.8
+
+Job losses will hit some communities harder than others
+Short-term confinement measures are likely to affect places differently depending on their areas of economic activity
+The economic consequences of COVID-19 are likely to affect regions very differently, with tourist destinations and large cities suffering the most in the short term. Regions have different sectoral specialisations, exposure to global value chains, focus on tradable vs. non-tradable sectors, and shares of non-standard employment. Consequently, some regions are likely to suffer more than others from containment measures, facing a steeper economic recession and larger shares of jobs at risk. The estimates illustrated in this note regarding jobs potentially at risk refer to activities directly affected by the shutdowns, but a significant share of those may still be at risk even after confinement is lifted due to other social distancing regulations and continuing restrictions on certain activities. According to a recent note by the OECD9, sectors most at risk include manufacturing of transport equipment; construction; wholesale and retail trade; air transport, accommodation and food services; real estate services; professional service activities; and arts, entertainment and recreation (see the annex for further information on the methods to estimate the share of jobs potentially at risk).
+
+The share of jobs potentially at risk in the short term as a result of confinement measures ranges from less than 15% to more than 35% across 314 regions10 in 30 OECD and 4 non-OECD European countries (Figure 1). In one out of five OECD/EU regions, more than 30% of jobs are potentially at risk during lockdown. Figure 2 shows the most affected regions by country together with their sectoral composition. The importance of tourism and of local consumption – including large retailers, general-purpose stores, and businesses in the hospitality industry, such as coffee shops and restaurants – partially explains the relatively higher impact in tourist destinations and metropolitan areas. The extent to which lockdowns will affect activities during the high tourism season is of course an important factor to determine the actual economic decline in tourist destinations.
+
+Capitals and large cities often face a larger share of jobs potentially at risk than other regions in the same country. One important feature of the confinement measures is that they severely reduce activity in local services, in particular in retail (other than food and pharmacies) and in personal services (hairdressers, beauticians, gyms, etc.). Local services account for a large share of employment in (large) cities, making them potentially more vulnerable than other areas. In eight countries, the Czech Republic, Denmark, Finland, France, Lithuania, Norway, Romania and Sweden, the capital regions face the highest potential risk of job losses in the short term. Greece and Spain follow the same pattern if their island regions, which are highly exposed to the decline in tourism, are excluded. In most cases, the higher risk observed in capitals, or other large cities, reflects their specialisation in retail and wholesale trade. This is the case for Athens, Bucharest, Prague, Helsinki, Oslo, Stockholm, and Vilnius. On the other hand, large cities have a more diverse economy and a more skilled labour force on average, which can help adapt to shocks and could facilitate the economic bounce-back. They also host a larger share of high-skilled workers who hold jobs compatible with teleworking.
+
+Figure 1. Share of jobs potentially at risk during COVID-19 containment measures
+Source: Authors’ elaboration on OECD Regional Database
+
+Figure 2. Regions with the highest share of jobs potentially at risk by country, TL2 regions
+Note: Share of jobs potentially at risk estimated under condition of full lockdown and travel restrictions. The sectoral composition of the regional economy is based on data from 2017 or latest available year.
+
+Source: Authors’ elaborations on OECD Regional Database.
+
+Within a country, differences in the share of regional employment potentially at risk vary by more than 20 percentage points. In Greece, for example, the range is from 55% of jobs potentially at risk in the South Aegean Islands to 22% in Central Greece. Such regional differences are also particularly stark in the Slovak Republic, Romania and France. Tourism destinations often show the highest shares of jobs potentially at risk. In Europe, several these destinations, such as Crete, the South Aegean and Ionian islands (Greece), Balearic and Canary Islands (Spain) as well as the Algarve region in Portugal have 40% or more of jobs potentially at risk. In Korea, the highest share is in Jeju-do, a region where tourism represents an important pillar of its economy. For similar reasons, in North America, Nevada (which includes Las Vegas) stands out as the most potentially affected state, followed by Hawaii. This aligns with other estimates of jobs at risk in US metro areas, which show locations such as Las Vegas at higher risk.11
+
+Regions in Northern and Eastern European countries appear potentially less affected, on average, than those in Southern Europe and North America.12 In Germany, Hamburg and Schleswig-Holstein face the highest share of jobs potentially at risk (over 30%), partially due to their relatively high employment shares in trade and tourism. East Slovakia also faces a similar challenge, but due to the importance of wholesale and retail activities for the regional economy. The importance of the public sector, potentially more resilient to the shutdown in the short term, offers an additional explanation for the lower risk observed on average in large parts of Europe compared to regions in other OECD countries.
+
+Trade-exposed regions are likely to face high risks
+Beyond the direct employment effects, supply chain disruptions and the scaling back of global trade due to containment measures can also have diverse effects on regions, with places more integrated in global trade potentially hit the hardest. Regions with higher trade openness (measured as the percentage of trade as a share of GDP) might face higher risks due to disruptions in trade flows Figure 3).13 Among such regions are those with major ports and trade facilities – such as Hamburg (Germany) and Riga (Latvia) – or regions with relatively larger shares of employment in manufacturing or other tradable sectors more generally, such as Veneto (Italy) or Wales (United Kingdom). The longer global trade will take to return to pre-COVID-19 crisis levels, the harder the downturn will be for the more globalised regions, with potentially stronger rises in unemployment, at least in the short term. In the medium term, if global trade returned to pre-crisis levels, more globalised regions could recover faster, consistent with previous OECD research showing that regions more specialised in tradable sectors recovered faster from the global financial crisis of 2008.14
+
+Figure 3. Regions most open to trade could suffer more from confinement measures
+Trade openness in regions (%)
+Note: Import plus export over regional GDP in 2015 $ PPP (%). Data refer to 2018 or latest available year.
+
+Source: OECD Regional Database.
+
+Greater local shares of non-standard work increase the risk of short-term job losses
+Regions also vary considerably in the share of workers in non-standard employment that could be at greater risk. Workers in temporary, part-time or self-employment may be particularly vulnerable to job losses, given the typically lower levels of job security and social protection they have compared to workers in standard employment relationships. In France, Belgium, Hungary, Italy, Spain or Greece, the share of temporary and part-time work differs by more than ten percentage points across regions. Temporary work is more common in regions with a lower-educated workforce, higher unemployment, and a smaller share of gross value added in tradeable sectors. Low-skilled workers are at higher risk of being in temporary work than the higher skilled, and that likelihood is even higher in rural areas than in cities.15
+
+Regional divides are already starting to show in administrative data on unemployment
+Given the speed at which the situation is evolving, the availability of related official unemployment statistics at the national or regional level is still limited.16 Preliminary data on unemployment claims released by a number of OECD countries can provide some indications of the differential impact across regions as it unfolds (see Box 1).17 Results derived from these data are quick and informal, rather than a definitive analysis, and may also reflect the different times that lockdown measures went into effect in different cities/states/regions, rather than a differential impact of confinement measures across regions per se. However, even with these caveats, the data do highlight notable regional differences.
+
+Box 1. From risk to reality: disparities in regional level administrative data on unemployment – the case of the United States and Spain
+United States: Insured unemployed as a share of the labour force, weeks ending 14 March and 11 April 2020
+Note: These figures are based on advance state claims data and are not seasonally adjusted. Insured unemployment is the number of people receiving unemployment benefits. The labour force refers to the population aged 16 and above. Note that some states may have experienced delays in processing claims, resulting in lower increases over the period than their peers.
+
+Source: US Department of Labor (https://www.dol.gov/ui/data.pdf) and Bureau of Labor Statistics (https://www.bls.gov/news.release/laus.t01.htm), both accessed on 23 April 2020.
+
+Spain: registered unemployed as a share of the labour force, February and March 2020
+Note: These figures are based on the number of people registered as unemployed at the public employment service (Servicio Público de Empleo Estatal). The labour force refers to the population aged 16 and above.
+
+Source: Spanish Public Employment Service (https://www.sepe.es/HomeSepe/que-es-el-sepe/estadisticas/datos-avance/paro.html) and National Statistical Office (https://www.ine.es/jaxiT3/Datos.htm?t=4204#!tabs-tabla), both accessed on 7 April 2020.
+
+Some of the hardest hit local economies may struggle for years to come
+Previous recessions have had long-term negative impacts on local labour markets, notably unemployment rates. Already prior to the outbreak of COVID-19, the unemployment rate had still not recovered in half of OECD regions a decade after the 2008 crisis.18 Looking back across the previous five recessions in the United States, the most affected local labour markets experienced employment and wage losses that persisted for at least a decade.19 The current crisis could re-open and deepen the wounds for those places still struggling to heal from the 2008 crisis.
+
+Several years after the 2008 crisis, weaker local labour markets had a higher share of temporary work contracts. The trend in increasing use of non-standard employment began long before the 2008 crisis, and in its direct aftermath the share of short-term contracts declined as these were among the easiest jobs to eliminate. However, in Europe, an increasing share of regional employment in temporary contracts was observed even during the recovery period (2012-16). This deterioration in the quality of jobs occurred in particular in regions that were also underperforming in terms of labour productivity. Unsurprisingly, such regions were also less inclusive in terms of employment and poverty outcomes.20
+
+COVID-19 will likely accelerate automation, and some regions have more jobs at risk. The outbreak may encourage firms to use labour replacing technologies in the short term to respond to labour shortages resulting from lockdown measures.21 Longer-term social distancing requirements, as well as broader shifts in business and risk management strategies, could further the uptake of automation. While technologies such as automatic check-out kiosks in stores or autonomous mobile robots to deliver medicine and clean hospitals may be lifelines for keeping essential services open today, and can help boost productivity in the longer-term, this contributes to structural job losses, requiring adjustments for some people and places above and beyond recovery efforts.
+
+Prior to the outbreak, the share of jobs at high risk of automation varied by over nine-fold across regions in the 21 OECD countries with available data (see Figure 4). In regions where this risk is high, the automation could be accelerated. Within countries, the difference between the regions most and least at risk can be over 10 percentage points. Regions that have a highly educated workforce and a strong tradable services sector, and that are more urbanised, have fewer jobs at risk of automation. Regions that have low productivity growth and high unemployment tend to have higher shares of jobs at risk.22 As part of recovery efforts, local policy makers in the latter could face even more trade-offs between productivity-enhancing automation and local job creation, as the pandemic increases both the incentives to automate and the scale of unemployment.
+
+Figure 4. Some countries have wide disparities in the risk of automation across regions
+Percentage of jobs at high risk of automation, highest and lowest performing TL2 regions, by country, 2016
+Note: High risk of automation refers to the share of workers whose jobs face a risk of automation of 70% or above. Data from Germany corresponds to the year 2013. Except for Flanders (Belgium), for which sub-regions are considered, regions correspond to the NUTS2 level of the European Classification.
+
+Source: OECD calculations based on (Nedelkoska and Quintini, 2018) and National Labour Force Surveys (2016).
+
+Local actions are an essential part of the recovery, from helping the disadvantaged to supporting firms or mobilising the social economy
+Regional and local governments implement national schemes, and complement them with locally tailored responses for the short and long term
+National policies in response to COVID-19 that may appear uniform (or place-blind) are not place neutral and will affect communities differently. For example, standard national income support schemes will have differential impacts depending on local cost of living. Likewise, national macroeconomic and structural policies affect regions differently depending on their economic performance. For example, rigid employment regulations have larger detrimental effects in lagging regions.23 Other evidence suggests that national spending has a different “bang for buck” across places, and that national resources can more effectively reduce the share of adults that are not working in places where this rate is higher.24 Over the medium and long term, the fiscal strain will require even more strategic approaches to nation-wide investments to promote recovery in all places.25
+
+Box 2. Supporting workers and firms during the COVID-19 crisis: what are subnational governments doing?
+While many national governments have introduced emergency measures in response to COVID-19, regions and cities are also taking action to support both workers and firms during the pandemic. This includes the following:
+
+Helping workers and firms navigate national programmes, including wage subsidies and emergency income support
+Local authorities in the United Kingdom (including core cities such as Manchester and Leeds) are active in providing information to local firms about how they can access grants covering up to 80% of the salary of workers (up to GBP 2 500 per month) if companies keep them on their payroll, rather than lay them off.
+
+Cities in Canada (including Toronto, Hamilton, Kitchener, and Montreal) are providing information to low-income individuals, the self-employed as well as recently laid-off workers about how to apply to receive support from the Canada Emergency Response Benefit which provides a taxable benefit of CAD 2 000 per month for up to 4 months to eligible workers who have lost their income due to COVID-19.
+
+West Michigan Works (a Local Workforce Investment Board) in the United States is guiding local workers through the unemployment claim process by supporting them to do their online application through phone and email.1
+
+Barcelona Activa, the city’s economic development agency, manages a network of labour law information centres that are nowadays providing on-line and telephone information on COVID-19 and employment, such as temporary lay-offs, teleworking arrangements, work risk prevention and workplace sanitation.2
+
+In the Basque Country (Spain), the region’s government has mobilised the public service Inplantalariak, which usually provides technology solutions to SMEs. Inplantalariak is subsidising up to 50% of costs for teleworking equipment for Basque SMEs and the self-employed. It is also helping SMEs and the self-employed navigate teleworking technology use to continue activities from home.3
+
+Serving as an implementation partner for national governments
+In Italy, the Cura Italia decree-law provides EUR 5 billion for a national redundancy fund, and regulates the distribution of resources among the regions. Regions, in turn, are responsible for working with social partners to disburse the funds.4
+
+Denmark: The national government announced plans to “freeze” the economy by paying companies 75% of an employee’s salary. Any unavoidable lay-offs will be managed within a decentralised employment system of 94 job centres that actively help job seekers return to work.
+
+Municipalities across the Netherlands are implementing a national temporary bridging measure for the self-employed (Tozo) and freelance workers. This includes income support up to EUR 1 500 per month and business loans to a maximum of EUR 10 157.
+
+Providing direct financial assistance to firms and social protection to vulnerable workers
+Berlin (Germany) has allocated more than EUR 100 million in support of small and micro enterprises (with a maximum of five employees) and freelance workers. Grants are limited to EUR 5 000, with the possibility of renewal. Freelance workers will be able to re-apply after six months, and small businesses after three. The subsidy complements the City’s Emergency Aid Package, which targets small and medium-sized enterprises with up to 250 employees.5
+
+The Province of Quebec (Canada) has introduced a programme to provide financial assistance to workers who cannot earn all of their normal employment income because they are in isolation to counter the spread of COVID-19.6 Similarly, the Province of Ontario (Canada), introduced the Employment Standards Amendment Act 2020, which provides job-protected leave for employees who are in isolation or quarantine due to COVID-19, or those who need to be away from work to care for children because of school or day care closures or to care for other relatives.7
+
+Providing job facilitation to address immediate hiring needs in sectors that provide essential services during COVID-19
+The National Association of State Workforce Agencies (NASWA) (United States) announced the launch of NeedAJobNow.usNLx.com, a job site dedicated to providing a centralised location for displaced workers to access employment opportunities from US companies with immediate hiring needs due to COVID-19.
+
+Similarly, Australia has set up a dedicated web portal (www.dese.gov.au/covid-19/jobs-hub/employers-multiple-jobs-opportunities) to provide job vacancy information by state with immediate short-term hiring needs at the local level in the face of COVID-19.9
+
+The Province of Trento (Italy) recently took measures to re-engage workers excluded from the labour market in the distribution process of essential goods. Specific tasks include sanitising tools used in grocery shops, overseeing customer flows in and out of grocery shops and preparing bags for delivery from online orders. The project is part of the so-called Progettone, which has the objective of engaging unemployed people in socially useful work.8
+
+Offering access to skills development programmes to facilitate training and adjustment
+To support local jobs, the region of Occitanie (France) has launched a plan to promote training rather than firing (Former plutôt que licencier), consisting of more than EUR 4 million to support access to skills development opportunities. The region is also expanding its plans to provide workers and job seekers with access to e-learning opportunities, by reinforcing its existing programme (Occitanie e-formation).10
+The Political Economy of Economic Policy
+Jeffry Frieden
+
+June 2020
+We should pay closer attention to the interactions between politics, economics, and other realms
+
+[Image: frieden-1600]
+
+The COVID-19 pandemic strikingly illustrates the intersection of politics, economics, and other considerations. Public health experts have long warned that the world was likely to face a major pandemic and called for greater preparedness. Yet policymakers who have to focus on the next election find it difficult to invest the time, money, and political capital to address the abstract possibility of a future crisis. And so most of the world was unprepared for a global public health threat of the magnitude posed by the novel coronavirus.
+
+As the pandemic has raced across the world, the policy response has continued to be tempered by political realities. Some members of the public, and some policymakers, have resisted the recommendations of public health experts, hoping for relaxed restrictions and a return to normalcy before the dangers have passed. At the same time, business interests have pressed for exceptions to benefit themselves, and for substantial subsidies—bailouts—to help them through difficult times.
+
+At the international level, government responses to the pandemic illustrate the difficult politics of worldwide cooperation. A global pandemic requires a global response: microbes do not respect borders. A coordinated international response is clearly the best way to confront an international public health emergency. Yet policymakers under pressure from their constituents have diverted resources away from other countries, banned the export of food and drugs, and hoarded essential supplies. Each of these measures—popular as they may be to national publics—imposes costs on other countries. In the final analysis, the lack of cooperation makes everyone worse off. Such international institutions as the World Health Organization attempt to coordinate a cooperative global response to the global crisis—but they can be powerless in the face of potent nationalist political pressures (see, for example, Goodman and others 2010).
+
+Every government faces tough decisions about the appropriate measures: what restrictions to impose and when to loosen them, where money will be spent and how it will be raised, and what national concerns can be limited to favor international cooperation. These decisions have to take into account public health recommendations, economic considerations, and political constraints. Just as the policy response to the 2007–08 financial crisis varied from country to country in line with local political economy conditions, so national policy responses to the COVID-19 pandemic vary for health, economic, and political reasons.
+
+Politics at play
+
+
+This hotly contested policy response to a universal threat is no surprise to political economists. It happens all the time. For example, just about every economist believes that small countries would be better off if they removed all barriers to trade. Yet unilateral free trade is practically unheard of, and no country in the world today pursues it. Why not? More generally, why do governments have so much trouble getting economic policies right? Why does the advice of independent observers, analysts, and scholars go so often unheeded?
+
+Politics is the usual answer, and the answer is usually right. But that is too vague—like saying that some countries are rich and others poor due to economics. Exactly how does politics keep governments from making better policy, even in the face of imminent crises? What does that tell us about how economic policy can and should be made?
+
+Political economy is about how politics affects the economy and the economy affects politics (see box). Governments try to pump up the economy before elections, so that so-called political business cycles create ebbs and flows of economic activity around elections. By the same token, economic conditions have a powerful impact on elections. Political economists have uncovered the simple (perhaps disturbing) fact that the rates of economic growth and inflation are all the information we need to predict quite accurately the results of the past 100 years of US presidential elections (see, for example, Fair 2018). So why don’t elections work to push politicians to choose the best policies?
+
+What Is Political Economy?
+
+
+Adam Smith, David Ricardo, and John Stuart Mill are widely regarded as the originators of modern economics. But they called themselves political economists, and Mill’s Principles of Political Economy was the fundamental text of the discipline from its publication in 1848 until the end of the century. These early theorists could not conceive of the economic and political worlds as separate.
+
+Two trends divided the political from the economic analysis. First, governments began to reduce their direct control over the economy. Second, different political forms emerged: Europe went from almost exclusively monarchical to increasingly representative, and highly varied, forms of government. By the early 20th century economics and political science were established as separate disciplines.
+
+For much of the 20th century this division reigned. With the Great Depression and problems of development, the purely economic issues were daunting enough to occupy economists. By the same token, the political problems of the era—two world wars, the rise of fascism and communism—were so serious as to require separate attention.
+
+By the 1970s, however, it was clear that the separation between the economic and political spheres was misleading. That decade saw the collapse of the Bretton Woods monetary order, two oil price shocks, and stagflation—all highlighting the fact that economic and political matters are intertwined. The economy was now high politics, and much of politics was about the economy.
+
+Over the past 50 years, political economy has become increasingly prominent in both economics and political science, in three ways:
+
+It analyzes how political forces affect the economy. Voters and interest groups have a powerful impact on virtually every possible economic policy. Political economists strive to identify the relevant groups and their interests, and how political institutions affect their impact on policy.
+
+It assesses how the economy affects politics. Macroeconomic trends can boost or ruin an incumbent’s chances. At the more microeconomic level, features of the economic organization or activities of particular firms or industries can have an impact on the nature and direction of their political activity.
+
+It uses the tools of economics to study politics. Politicians can be thought of as analogous to firms, with voters as consumers, or governments as monopoly providers of goods and services to constituent customers. Scholars model political-economic interactions in order to develop a more theoretically rigorous understanding of the underlying features driving politics.
+
+All three methods have profoundly affected both scholars and policymakers. And political economy has a lot to offer both to analysts of how societies work and to those who would like to change society.
+
+Where you stand depends on where you sit
+
+
+A basic economic principle is that any policy that is good for society as a whole can be made to be good for everyone in society, even if the policy creates winners and losers. It requires only that the winners be taxed just a bit to compensate the losers—and everyone is better off. Economists use powerful tools to clarify which economic policies are best for society. So why should economic policy be controversial?
+
+A basic political economy principle is that the winners don’t like being taxed to compensate losers. And the battle is joined, not over what is best for society but rather over who will be the winners and losers. What is best for the country may not be best for my region, or group, or industry, or class—and so I will fight it.
+
+Even in democracies, plenty of citizens might agree that politics obeys the golden rule: those with the gold make the rules. Special-interest groups do seem to play an outsize role around the world, democratic or not. These include wealthy individuals, powerful industries, big banks and corporations, and formidable labor unions.
+
+How else to explain why Americans pay two or three times the world price for sugar? There are a handful of sugarcane plantations and a few thousand sugar beet farmers in the United States—and 330 million sugar consumers. You’d think that the 330 million would count for a lot more in politics than the several thousand, but you’d be wrong. For decades, subsidies and trade barriers have raised the price of sugar to the benefit of the sugar planters and farmers and to the detriment of everyone else.
+
+Why does a tiny group of sugar producers matter more than the rest of the country? A commonplace of political economy is that concentrated interests usually win over diffuse interests. The sugar producers are well organized and work hard to influence politicians. If they didn’t get favorable government treatment they’d go out of business, so it’s important for them to organize to lobby and fund politicians. The cost to consumers is estimated at $2 billion to $3 billion a year. That’s a lot of money—but it comes to a couple of cents a day for the average American. No consumer is going to talk to an elected representative or threaten to vote for an opponent over a couple of cents a day.
+
+The fact that producers are concentrated while consumers are diffuse helps explain trade protection. A few automobile manufacturers can organize themselves; tens of millions of car buyers can’t. That’s not all. Management and labor in the auto industry may not agree on much, but automakers and autoworkers agree that they want to be protected from foreign competition. Politicians—especially politicians from areas where automobile manufacturing is important—have a hard time denying a common demand of workers and owners in a powerful industry.
+
+Perhaps this is not such a bad thing. Sugar farmers and autoworkers depend for their livelihood on supportive policies. Who is to say that their jobs are less important than lower prices for consumers? There is no simple, widely accepted way to balance the benefits against the costs—is cheaper sugar important enough to bankrupt thousands of hardworking farmers? Politics is, in fact, the way society adjudicates among conflicting interests, and maybe those with more at stake should have a bigger say.
+
+Political economists don’t usually take stands on complicated moral and ethical issues of this sort. They try to understand why societies choose to do what they do. The fact that sugar or car producers have much more at stake and are much better organized than sugar or car consumers helps explain why government policies favor sugar and car producers over consumers.
+
+Some consumers are concentrated, though. Sugar is sweet, and the corporations of the Sweetener Users Association want it to be cheap as well. Coca-Cola, Hershey, and the like have pushed hard to change American sugar policy. The fact that there are powerful concentrated interests on both sides of the issue helps explain why prices aren’t even higher than they are. The same thing is true of industrial products. Steelmakers want protection; steel users—like the auto manufacturers—don’t. Trade policy is not just a battle between big corporations and disunited households; it’s also a battle among big corporations. Otherwise we’d expect every industry to be protected and trade to be tightly limited everywhere.
+
+In fact, there are plenty of powerful interests in favor of international trade and investment. The world’s multinational corporations and international banks depend on an open flow of goods and capital. This is especially the case today, when many of the world’s largest companies depend on complex global supply chains. A typical international corporation today produces parts and components in dozens of countries, assembles them in dozens more, and sells the final products everywhere. Trade barriers interfere with these supply chains, which is why most of the world’s biggest companies are also some of the biggest supporters of freer trade.
+
+In this 15-minute video, Prof. Jeffry Frieden responds to reader questions from around the world on political economy
+
+A complex web
+Special interests as well as voters on different sides of every issue fight their battles in the political arena. But the rules of politics vary a lot from country to country. The way a political economy is organized affects who wins the battle over policy.
+
+A logical starting point is elections, at least in democracies. Governments that don’t satisfy their constituents don’t remain governments very long. So we might expect democracies to choose policies that benefit the economy as a whole. However, the economy as a whole doesn’t vote.
+
+Politicians need votes from the people who decide elections. The decisive or pivotal voters vary with a country’s electoral institutions and social divisions. In most political systems, the best targets are swing voters, who might change their vote in response to the policies of an incumbent or the promises of a challenger. If the poor vote for the left and the rich vote for the right, for example, the middle class could be decisive. In recent American presidential elections, the most important swing voters have been in distressed industrial regions of the Midwest. Many voters in these areas believe that foreign competition contributed to manufacturing decline. This helps explain why presidential candidates have become increasingly protectionist, even though most Americans support openness to trade.
+
+In addition, policymakers in democratic societies must always pay attention to the next election—otherwise they are likely to cease being policymakers. This helps explain why it can be difficult for governments to pay money now for policies whose benefits will be realized only in the long run—such as pandemic prevention and preparedness.
+
+The mass of special and general interests in society is overwhelming.Institutions help make sense of them. First are social institutions—the way people organize themselves. Some businesses, farmers, and workers are well organized, giving them more political clout. Farmers in rich countries are relatively few, are well organized, and are almost universally subsidized and protected. Farmers in poor countries are many, rarely organized, and almost universally taxed. Where workers are grouped into centralized labor federations, as in some northern European countries, they play a major role in national policymaking. The ways in which societies organize themselves—by economic sector, region, ethnicity—affect how they structure their politics.
+
+Political institutions mediate the pressures constituents bring to bear on leaders. Even in authoritarian countries, rulers have to pay attention to at least some part of public opinion. Political economists call this the “selectorate,” that portion of the population that matters to policymakers. In an authoritarian regime, this could be an economic elite or the armed forces. In an electoral democracy it would be voters and interest groups. No matter who matters, policymakers need their support to stay in office.
+
+In democracies, the variety of electoral institutions affects how policymakers feel constituent pressures. Organized political parties can help extend the time horizons of politicians: while an individual politician may worry only about the next election, a party has to be concerned about its longer-term reputation. On another dimension, where politicians are elected by the country as a whole, as in Israel or the Netherlands, the focus is on national policy. Where politicians represent narrower geographic locations, as in the US House of Representatives, the general view is that “all politics is local” (usually attributed to 1970s–80s Democratic Speaker of the House Tip O’Neill). These different electoral systems can drive politics toward more national or more local concerns.
+
+Electoral institutions affect the identity of the people politicians need to attract to win an election. The US Electoral College makes middle-of-the-road voters in the Midwestern industrial states pivotal in presidential elections, driving the emphasis on protection for manufacturing. In a multiparty parliamentary system, the pivotal voters may be the supporters of a small party that can swing back and forth between coalition partners, such as the fringe parties for the formation of Israeli governments. Whichever voters the electoral system makes pivotal are likely to have outsize influence over politics and policy.
+
+The character of legislative institutions also matters. For example, while a unitary parliamentary system can deliver big and fast change, in the US separation of powers system change is more modest and slower. Federal systems—in Australia, Brazil, Canada, Germany, the United States—give provincial or state governments a lot of power, while centralized systems allow the national government to rule unchallenged. Some governments have handed off control of important policies to independent bodies that are less subject to day-to-day political pressures—such as central banks and public health agencies.
+
+These institutions matter because they affect the weights that politicians give to different groups in society. Some sociopolitical institutions give labor unions a great deal of influence; others privilege farmers; still others are dominated by business associations. Political economists analyze the interests in play and how the institutions of society transmit and transform them into government policy.
+
+Second-best can be best
+
+
+All this matters to policymakers or observers or even just people who care about the economy because it can profoundly change the way we think about policy and policy advice.
+
+The policy that economic analysis indicates is best for the economy may not be politically feasible. To go back to free trade, virtually all economists would recommend that a small country’s best bet is to remove all trade barriers unilaterally. Yet it is almost certain that a government that attempted to move to unilateral free trade would face massive opposition from special interests and from many in the public who would regard such a move as dangerous. The result might well be the collapse of the government and its replacement with one that could be relied on to maintain and even expand trade barriers. In this case, pursuit of the first-best policy could lead to a much worse outcome.
+
+Politicians, analysts, observers, and just regular people who are interested in economic policy are well advised to evaluate not only the economic implications of policy initiatives but also their political feasibility. If the pursuit of a first-best policy is bound to fail and perhaps provoke a backlash, then truly the cure may be worse than the disease. It makes more sense to consider the political realities the government faces and to structure policy with those realities in mind. It is better to settle for second-best than to insist on first-best and end up worse—or, as folk wisdom has it, to let the perfect be the enemy of the good.
+
+Bottom line
+
+
+Political economy is the integration of political and economic factors in our analysis of modern society. Inasmuch as just about everyone would agree that politics and economics are intricately and irretrievably interwoven—politics affects the economy and the economy affects politics—this approach seems natural. It has proved itself powerful in understanding governments and societies; it can also be a powerful tool for those interested in changing governments and societies. Policymakers should hold these important lessons in mind today as they tackle the COVID-19 pandemic.
+
+[Image: Author]
+
+JEFFRY FRIEDEN is a professor of government at Harvard University.
+
+Opinions expressed in articles and other materials are those of the authors; they do not necessarily reflect IMF policy.
+
+References:
+Fair, Ray C. 2018. “Presidential and Congressional Vote-Share Equations: November 2018 Update.” Yale Department of Economics Paper, Yale University, New Haven, CT.
+
+Goodman, Peter S., Katie Thomas, Sui-Lee Wee, and Jeffrey Gettleman. 2010. “A New Front for Nationalism: The Global Battle against a Virus.” New York Times, April 10.
+This report was developed for our partners at Brookings Mountain West; the original version was published on their site on February 4, 2021.
+
+Abstract
+As the United States prepares for a COVID-19 recovery, policymakers need to understand why some cities and communities were more vulnerable to the pandemic’s economic consequences than others. In this paper, we consider the association between a city’s core industry, its economic susceptibility to the pandemic, and the recession’s racially disparate impact across six select metropolitan areas. We find that areas with economies that rely on the movement of people—like Las Vegas with tourism—faced substantially higher unemployment at the end of 2020 than cities with core industries based on the movement of information. Further, we find the hardest-hit areas have larger Hispanic or Latino communities, reflecting the demographic composition of workers in heavily impacted industries and susceptible areas. We conclude by recommending targeted federal policy to address the regions and communities most impacted by the COVID-19 recession.
+
+Contents
+
+Introduction
+City and metro economies before COVID-19
+The economic impact of COVID-19
+Policy implications
+Back to top
+Introduction
+Aaron Klein Senior Fellow - Economic Studies, Center on Regulation and Markets
+AaronDKlein
+[Image: Ember Smith Headshot]
+
+Ember Smith Senior Research Assistant - Center on Children and Families
+ember_smith
+More so than any prior economic downturn, the COVID-19 recession has crushed certain industries—those that depend on the movement of people—while leaving others relatively unscathed—those that depend on the movement of information. City economies are concentrated in different industries: Las Vegas and Orlando in travel and tourism, Seattle and San Francisco in technology, and Washington D.C. in government. Thus, the COVID-19 recession’s economic geography is uniquely impacted by the pandemic’s effect on a city’s primary industry. Overlaying geography with race reveals another under-appreciated impact of this recession: an increase in the economic hardship faced by Hispanic or Latino communities.
+
+This piece explores the economic implications of the COVID-19 recession using select metropolitan areas (often referred to by the name of the metro’s primary city), identifying problems and offering policy responses. We examine six metropolitan areas: three with heavy concentration in industries negatively impacted by COVID-19 (Las Vegas, Orlando, and Reno) and three with economies heavily concentrated in industries less negatively, or even positively, impacted by COVID-19 (Seattle, San Francisco, and Washington, D.C.). We find that the cities with industries more acutely impacted have a higher concentration of Hispanic or Latino residents.
+
+[Image: Core industries in select cities]
+
+Back to top
+
+City and metro economies before Covid-19
+Cities and metropolitan areas often specialize in select industries, creating agglomeration economies. Put simply, there is an economic benefit when firms producing similar goods are located near each other. For example, the auto industry is headquartered in Detroit, finance in New York, entertainment in Los Angeles, information technology in Seattle, and so on. The performance of core industries spills over to supporting industries and affects the entire regional economy; restaurants and retail stores do better when the core industry is booming and struggle when it is not. In this section, we discuss the primary industries in each metropolitan area of interest prior to COVID-19.
+
+Before COVID-19, Orlando had the largest tourism industry in the nation, producing $26 billion per year, while Las Vegas came in second at over $19 billion.1 However, Las Vegas’ total GDP is smaller than Orlando’s, so the impact of tourism is relatively larger—hospitality and leisure employed more than a quarter of Las Vegas workers in 2019.2 There are a larger share of leisure and hospitality workers in Las Vegas than government workers in D.C. Orlando and Reno have similarly high employment concentrations in hospitality and leisure, although production as a portion of their economy is sizably smaller than in Las Vegas. Figure 2 shows that roughly one in five workers in Orlando (21%) worked directly in hospitality and leisure in 2019, as did 16% (roughly one in seven) of Reno’s workforce.3 In these cities, many secondary industries—like the professional or business sector—are driven by their primary economic engines.
+
+
+[Image: Select metropolitan area industry employment - portion of total employment]
+
+Seattle and San Francisco, on the other hand, specialize in technology, an industry that may have benefitted from COVID-19. Seattle is the well-known birthplace of Microsoft and the home of Amazon. San Francisco is the modern-day home of enormous tech conglomerates like Salesforce and Adobe and features major corporate offices for many of the Silicon Valley giants located nearby. Anchor industries employ different types of workers; employment in Seattle and San Francisco are both over two times (2.36 and 2.14 respectively) more concentrated in their largest occupational group, computer and mathematical occupations, than the national average.4 Orlando, by contrast, has slightly less than the national rate of employment in computer and mathematical occupations, while that figure plummets in Las Vegas (50%) and Reno (54%).5 Put another way, San Francisco and Seattle have more than four times as many employees in computers and math than Las Vegas and Reno, proportionate to the total number of workers in each metro.
+
+Moving beyond the technology versus tourism binary, we add the nation’s capital and government hotspot, Washington, D.C., where one in five workers are employed directly by the government. The corresponding army of lawyers is a good indicator of how the primary industry of a city drives secondary workforces; D.C. has almost three times (2.76) as many legal service workers per capita as the national average. With governing also comes a demand for research (military and civilian) and, as a result, D.C. has an even greater share of employees in computer and mathematics than Seattle or San Francisco (2.46 times the national average), approaching five times as many as Las Vegas and Reno, as a proportion of each metro’s workers.6
+
+Back to top
+
+The economic impact of Covid-19
+COVID-19, which devastated some industries like leisure and hospitality, barely impacted others. Table 1 shows the change in the unemployment rate among our comparison metros; Las Vegas’ unemployment increased by nearly eight percentage points from November 2019 to November 2020—almost five percentage points more than the nation as a whole. Las Vegas and Orlando are among the metros with the current highest unemployment rates in the country; Las Vegas had the fourth highest unemployment rate of all metropolitan areas, over five points higher than the national rate in November 2020.7 Las Vegas and Orlando also had among the top 10% highest employment declines of all metro areas from November 2019 to November 2020 (the most recent data available at the metro level).8 Meanwhile, the technology- and government-based metros tend to have lower unemployment than the national average, even if they started with rates similar to (or even slightly higher than) Orlando.
+
+In this section, we examine the impact of the coronavirus pandemic on the leisure and hospitality sector (the hardest-hit industry and core sector of Las Vegas, Reno, and Orlando), the pandemic’s effect on COVID-19-resilient industries (like technology in Seattle and San Francisco or government in Washington, D.C.), and discuss economic outcomes for the Hispanic or Latino population in each city.
+
+Table 1: Metropolitan area unemployment, November 2019-20
+Metropolitan area	Rate (Nov 19)	Rate (Nov 20)	Over-the-year change
+Las Vegas-Henderson-Paradise, NV	3.6	11.5	7.9
+Orlando-Kissimmee-Sanford, FL	2.7	7.7	5
+San Francisco-Oakland-Hayward, CA	2.4	6.1	3.7
+United States	3.3	6.4	3.1
+Washington-Arlington-Alexandria, DC-VA-MD-WV	2.8	5.8	3
+Reno, NV	2.7	5.4	2.7
+Seattle-Tacoma-Bellevue, WA	3	5.1	2.1The Most COVID-19-vulnerable Industry: Leisure and Hospitality
+Cities with core industries that have been negatively impacted by the COVID-19 recession have broader spillover effects (e.g., an unemployed casino worker in Las Vegas is less likely to buy new clothes). In the aggregate, the devastation of a core industry can mean the decline of others nearby, like with manufacturing in the Rust Belt in the second half of the twentieth century. As a result, metropolitan areas concentrated in hard-hit industries are likely to see negative ripple effects throughout their economy (lower tax revenue, less spending, etc.). As we will explore, the metropolitan areas concentrated in industries susceptible to COVID-19 tend to have larger Hispanic or Latino populations as well. Thus, the pandemic’s economic geography magnifies existing disparities, exacerbating the racial wealth gap for Hispanic or Latino families. This is particularly concerning given that the federal government’s initial COVID-19 relief policies failed to appreciate the economic and geographic realities of this recession and were implemented in a way that reduced benefits for many Hispanic or Latino families.9
+
+Ten months since the initial wave of closures due to COVID-19, leisure and hospitality workers continue to face the highest unemployment rate amidst the pandemic; over 16% of the sector’s labor force is unemployed.10 While every metropolitan area has hotels, only a few stake their economies on them. Being a destination city for travel includes the economic benefit of both personal tourism and corporate conferences; COVID-19 devastated both as people stopped travelling altogether. The $100 billion a year U.S. conference industry, which fills hotels during the week for conferences in cities that become hotspots for vacationers on the weekends, is at a near standstill.11 In November 2019, 88% of Las Vegas’s hotel or motel rooms were occupied; in November 2020, that figure was just 47%.12 Similarly, 59% fewer passengers passed through Las Vegas’ McCarran International Airport in November 2020 than a year earlier, and 52% fewer tourists visited the city. Orlando is suffering a similar fate; 44% fewer flights were serviced at Orlando’s airport in October 2020 compared to a year before.13
+
+To demonstrate the broader impact COVID-19 is having on economies like Las Vegas’ or Orlando’s, we compare a metro area’s employment concentration in hospitality and leisure before the pandemic with its change in unemployment. Figure 3 shows the portion of nonfarm workers employed by the leisure and hospitality sector in a metro area in 2019, the change in the total unemployment rate (percentage points) from November 2019 to November 2020, and the proportion of the metro area that is Hispanic or Latino for areas with data for each metric.14
+
+[Image: Hospitality, unemployment, and the Hispanic or Latino Population by Metropolitan Area]
+
+We see the spillover effect in force; cities that depend on hospitality and leisure also had higher overall unemployment, suggesting that the performance of the core industry impacted the performance of a metro area’s overall economy. Las Vegas, for example, has the second highest concentration of jobs in hospitality and faced the second largest increase in unemployment (behind Atlantic City). Orlando also stands out with a particularly large hospitality workforce and substantial increase in overall unemployment; both rank among the top 50 metros in November 2020 unemployment. Seattle and Washington D.C., by contrast, are below average in both concentration in hospitality and leisure and change in unemployment, demonstrating again how COVID-19-resilient industry concentrations have helped temper overall job loss.
+
+Figure 3 also overlays the size of a metro’s Hispanic or Latino population: the bigger the circle, the larger the Hispanic or Latino share of the metro’s population. Tourism-dependent cities like Las Vegas and Orlando also tend to have larger Hispanic or Latino populations, while cities with below-average changes in unemployment like Seattle and Washington D.C. tend to have smaller Hispanic or Latino populations.
+
+The decline in travel and hospitality employment was similar across the cities we analyze. The leisure and hospitality industry in Las Vegas suffered a 21.4 percentage point decline in employment since November 2019, but the leisure and hospitality industry in Orlando, D.C., San Francisco, and Seattle all declined by 30 percent or more.15 Reno is the only city in our sample that faced a smaller unemployment decline in the sector (16%) than Las Vegas (21%).16 In other words, there was nothing unique about working in the hospitality industry in Las Vegas, Orlando, or Reno as compared to Seattle, San Francisco, or Washington, D.C. except the portion of employment in the sector. If anything, employment held up better in cities’ core industries. However, the employment effects in non-core industries seemed to have been compounded or mitigated by core industry performance. Over a quarter of Las Vegas workers are in the hard-hit leisure and hospitality industry, and the metro’s information, financial activities, and professional business service industries also fared the worst of our comparison metros. Unsurprisingly, Las Vegas’ overall unemployment is also the highest among this group. By contrast, almost a quarter of Washington, D.C.’s employment is in government, a sector that performed better in November 2020 in the metro than in 2019; D.C. also faced the second smallest increase in unemployment among our comparison metropolitan areas.
+
+COVID-19-Resilient Industries: Information and Government
+While COVID-19 wreaked havoc on industries that depend on in-person contact, distancing restrictions caused a sharp increase in the usage of technology for remote work and business transactions. Businesses of all types invested more in technology, with one survey by McKinsey finding that, “about the impact of the crisis on a range of measures, [executives] say that funding for digital initiatives has increased more than anything else—more than increases in costs, the number of people in technology roles, and the number of customers.”17 That survey also found a sharp increase in the share of North American consumers who interact digitally, rising by over 58% as a result of the crisis.
+
+Relative to other industries, information technology and government have done well. Between February and April 2020, sales for non-store retailers (i.e., online shopping) increased by 15%—Amazon added 400,000 jobs this year, nearly doubling its workforce in response to the pandemic.18 While these jobs are spread throughout the nation, Amazon’s corporate headquarter(s) will likely see disproportionate economic gain from the company’s growth. Facebook also announced plans to hire 10,000 additional workers in April 2020.19 Meanwhile, the 12-month change in information and government industry unemployment is less than half that of leisure and hospitality.20
+
+As Table 2 indicates, job losses in information and technology were generally in-line with or slightly below total job loss rates for technology hub cities like Seattle and San Francisco, as well as for D.C., Orlando, and Reno. Interestingly, only in Las Vegas and D.C. were the proportion of job losses greater in information than overall job losses. This could be the result of classification, where information industry jobs that are part of hospitality and leisure or government are classified differently, although one might expect similar impacts in Orlando and Reno.
+
+Table 2: 12-month percent change in employment by industry, November 2019-20
+Industry	Las Vegas	Reno	Orlando	Washington, D.C.	San Francisco	Seattle
+Total Nonfarm	-10.1	-5.2	-9.3	-6.1	-9.3	-6.7
+Leisure and Hospitality	-21.4	-15.9	-30.5	-38.1	-29.7	-30.2
+Information	-17.2	0	-5.4	-6.9	-9.1	-2.1
+Financial Activities	1.1	1.8	-1.5	-3.7	1.3	1.6
+Professional and Business Services	-13.8	0.6	-3.1	-4.7	-2.8	1.4
+Other Services	-12.9	-9.4	-7.2	-1.7	-17.8	-12.8
+Government	-4.5	-7.6	-7.4	2.2	-9.7	-6.4
+Acceleration of long-run trends towards increased technology use benefits technology firms and, consequently, the communities where technology firms are located. When Amazon and Facebook grow in both employment and value (see Amazon, Facebook stock prices), wealth is disproportionately created in their headquarter cities. As the growth of the auto industry powered Detroit’s rise in the 20th century, growth in technology is powering Seattle and San Francisco’s rise in the 21st century. COVID-19, while a net loser for all of society, is a relative winner for technology firms and correspondingly, on a relative basis, for their main cities.
+
+Likewise, COVID-19 has put the federal government to the test and Washington responded with money and new jobs. The federal government grew by over 50,000 jobs from the end of 2019 to the end of 2020 and the D.C. metro’s government employment grew by over two percent, one of the few positive figures in Table 2.21 The old Washington adage that “the most secure job is a federal government job” held and, during the COVID-19 pandemic, secure employment is incredibly valuable. One caveat to our analysis is that while federal government hiring has remained strong, state and local government has not. State and local governments across the country lost over 1.1 million jobs during over the same period, more than offsetting the federal employment boost.22 Thus, state capitals may not be experiencing similar government booms to Washington D.C.
+
+Perhaps over the long run, structural changes allowing for increased remote work started by the response to COVID-19 will weaken the link between cities and their major industry. If so, this will likely be stronger in the IT sector, where a greater share of remote work is possible than in service sectors such as hospitality, leisure, and gaming. Put simply, the amenities that Las Vegas and Orlando offer cannot be as easily substituted by people sitting behind a computer a thousand miles away as may be the case for technology or government jobs.
+
+The Impact on Hispanic or Latino Workers
+Hispanic or Latino workers are particularly negatively impacted by the COVID-19 recession, as has been found in prior studies. In December 2020, the Hispanic or Latino unemployment rate was 9.3%, over three points higher than the white unemployment rate.23 When COVID-19 initially struck, the Hispanic or Latino unemployment rate skyrocketed, surpassing the Black unemployment rate. By the end of 2020, the gap between Hispanic or Latino and white workers was still larger than when COVID-19 unemployment first struck around March.
+
+Our metro-level analysis confirms the race gap in unemployment; metropolitan areas with above-average unemployment at the end of 2020 are 31% Hispanic or Latino, compared to 10.9% Hispanic or Latino in metro areas with below-average unemployment. Thus, the geographic spillovers in industry performance likely drive the increase in the racial disparity between the Hispanic or Latino and white unemployment rates.
+
+[Image: Unemployment by race or ethnicity]
+
+Compounding the geographic effects are industrial concentration differences between racial or ethnic groups. Prior to COVID-19, nearly a quarter of the hospitality sector’s labor force was Hispanic or Latino. COVID-19 has decimated tourism, driving the hospitality and leisure industry to the highest unemployment rate among major industries.24 Figure 5 shows select industries’ change in employment from November 2019 to November 2020 and the portion of Hispanic or Latino workers in each industry in 2019.
+
+[Image: Unemployment change and share of workers who are Hispanic or Latino, select industries]
+
+With unemployment also comes a number of other issues; employees often receive health benefits from their employer and losing a job may mean losing affordable health care. These impacts compound existing racial inequity in health care access as the Hispanic or Latino population is also disproportionately likely to contract COVID-19. Las Vegas coronavirus rates per 1,000 residents are much higher among Hispanic or Latino people than white people. This helps explain why data through mid-January 2021 indicate that one out of twelve Hispanic or Latino Las Vegans have had COVID-19, while only one in twenty white residents have.25 On an age-adjusted basis, death rates for Hispanic residents in Nevada are nearly three times as great as that of white residents.26
+
+Back to top
+
+policy implications
+Federal aid has so far been suboptimal in allocating economic assistance to those who need it the most. Over half of coronavirus aid went directly to businesses, many of which were not compelled to keep their employees or prove that they were negatively impacted by the pandemic.27 By contrast, only about a fifth went directly to workers and families, and the aid that did was not always well-targeted. For example, initial direct payments (stimulus checks) excluded children if they had one parent who was an undocumented immigrant.28 Direct stimulus payments were also administered slowly, with millions of American families waiting months to receive their funds.
+
+For the purpose of this analysis, the most well-targeted program was supplemental unemployment insurance. By tracking unemployment and incorporating a broader definition of unemployed workers, enhanced unemployment benefits should have flown disproportionately to those in more impacted industries such as leisure and hospitality. As a result, enhanced benefits did more to support the economies of Las Vegas and Orlando than their relative impact in San Francisco, Seattle, and Washington, D.C. Likewise, we would expect Hispanic or Latino workers to make up a disproportionate number of claims given that they faced disproportionately high unemployment. Herein lies one serious potential problem. Many states continue to struggle with significant difficulty in administering the new unemployment insurance aid.
+
+Multiple factors are at play, including specific states’ difficulty modernizing their systems to accommodate the new federal rules and the sudden spike in demand. Florida, for example, had an archaic system that made it difficult for newly eligible workers to qualify.29 Nevada’s difficulty in expanding eligibility and processing record levels of unemployment claims were also well-documented, leading to a class-action lawsuit against the state’s employment department.30 Delays in processing claims and providing payments are particularly harmful for people with little savings and difficulty accessing short-term credit at a reasonable cost, burdens that apply disproportionately to Hispanic or Latino Nevadans. This could be one reason why enhanced unemployment insurance benefits were not equitably taken up by those who need it; about the same proportion of workers who filed for unemployment benefits are Hispanic or Latino as are in the workforce, even though Hispanic or Latino workers were disproportionately unemployed (see Figure 4).31
+
+The heralded Paycheck Protection Program (PPP), which offered affected businesses and workers forgivable loans (in effect grants), saved many fewer jobs than the lofty anticipated 30 million; in the first two months of the program, researchers estimate that only 2.3 million jobs were saved, at a price of $286,000 each.32 The PPP grants that were distributed seemed mismatched with the unemployment rate in those sectors. According to a Washington Post analysis, 32% of jobs lost were in the lodging, restaurants, and bar industry (a core component of hospitality and leisure), but the industry only received 8% of PPP grants. Similarly, the arts, entertainment & recreation industry had a job loss rate three times higher than the portion of PPP grants it received. Correspondingly, finance and insurance companies that relatively prospered throughout the pandemic received over $8 billion in PPP funds. Put another way, finance and insurance received over $350,000 in PPP funding per job lost from February to April as compared to about $8,000 in arts, entertainment, and recreation, and $7,800 in accommodation and food services.33
+
+Table 3: Paycheck Protection Program (PPP) spending, by industry34
+Industry	Jobs lost	Spending	Grants
+Finance & Insurance	0.2%	$8.2	2.3%
+Real Estate, rental & leasing	1.1	10.7	3.0
+Information	1.2	6.7	1.8
+Professional, scientific & technical Services	2.5	43.3	12.7
+Construction	4.7	44.9	12.4
+Arts, Entertainment, & Recreation	6.3	4.9	1.6
+Manufacturing	6.4	40.9	10.3
+Accommodation & food services	31.8	30.5	8.1
+Much of the Coronavirus Aid, Relief and Economic Security (CARES) Act money allocated directly to state and local governments was allocated by population, despite the demonstrated disparate geographic and economic effects of COVID-19.35 Allocating by population rather than economic impact results in too little money going to states and local government suffering larger economic consequences. Because the economic geography of COVID-19 fell disproportionately Hispanic or Latino workers, this error will have consequences for racial equity; funding misallocation exacerbates existing racial income and wealth gaps.
+
+Even if all unemployment benefits, PPP loans, and other COVID-19 aid were distributed in the most equitable way possible, people of color—especially Hispanic or Latino workers—are more likely to be unemployed in general and because of COVID-19, more likely to live in the key metro areas disproportionately hit by the recession, and are more likely to contract COVID-19. The impacts of the recession will also not disappear in the years to come. Hispanic or Latino workers who lost their job over the course of the pandemic may not be able to find work for months or years after the final COVID-19 aid has been distributed. There will also be a long lag in tourism’s recovery. Even if most Americans who want to be have been vaccinated, international tourism and close contact among people may take months or years to recover. Stimulus spending and temporary aid are a great starting point, but policymakers should pay attention to the industries and people who will face an uphill battle in the foreseeable future.
+
+For government aid to maximize its assistance to vulnerable Americans, increased attention to actual need is necessary. Specific improvements include:
+
+Focus support to businesses in more impacted industries, such as hospitality and leisure as opposed to blanket first-come, first-served funding for all industries.
+Increase assistance to metro areas that depend on the hardest-hit industries such as Las Vegas, Orlando, and Reno.
+Reverse discriminatory rules that reduce access for negatively impacted populations, such as precluding parents from receiving child benefits based on one parent’s nationality. This is one area where the COVID-19 legislation passed by Congress in December showed improvement.
+Realize that geography interacts with economics and race as the nation turns to the aftermath of the COVID-19 recession, and that the recession’s impact will be larger and longer for some communities.
